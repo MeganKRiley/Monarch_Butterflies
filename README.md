@@ -96,13 +96,3 @@ mapbox styles:https://docs.mapbox.com/api/maps/#styles
 leaflet documentation on methods using the map objecct and tile layers: https://leafletjs.com/reference-1.6.0.html#map-example
 creative commons: https://creativecommons.org/
 bindPopup() method: https://leafletjs.com/reference-1.6.0.html#popup
-
-# <br>
-**How we got here:<br>**
-<p align="center">
-    Our idea had a similar path much like our topic. We started at one stage, it change shape and idendity and became soemthing a lot more wonderful than anyone of us would have expected </p> 
-
-**_Christian_**<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; As a group we were trying to decide how to what data we were trying to find. We had discussed what our occupations are and if there was a way to incorporate that into our project. As we we are all in very different occupations at this time, it was difficult to find something decisive. I had some experience with Monarch Butterflies in my past and I had found data from journeynorth.com to which kick-started our project. I was able to locate a simple data-set to which our project quickly evolved into its next state. We had found our data and we were on a roll.<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; I started a simple jupiter notebook to test the data. Sue was quickly able to take it and run with it to create geo json files. During that time I had taken some of our work we had done on a prior module using Leaflet to create the base of our project. Before we got too far, we had decided to begin thinking of what our tasks should be. Ultimately, my role would be front end. We had used Java Script for the base language that we would be working in. In order to create maps that would identify our data, it was my job to take a new plug-in and apply it to our current code. Unfortunataly this proved to be very difficult for me as JS is not my biggest strength. I ultimately found a way to do what we set out to do through Jupyter Notebook, however we were not able to solve the mystery of connecting Jupyter Notebook to JS.<br>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; After a a bit of trial and error, Josh was abel to leverage his experience, he was able to breake it till he made it. I then decided to work more on our presentation that would help get our website up and running. We turned our GitHub repository to be in the hands of Megan as I would be out of town for the presentations.
