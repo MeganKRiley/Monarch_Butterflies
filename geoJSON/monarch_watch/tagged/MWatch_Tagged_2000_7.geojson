@@ -1,0 +1,195 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/13/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/13/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "SD",
+    "decimalLatitude": 43.5446,
+    "decimalLongitude": -96.7311034,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.7311034,
+     43.5446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/14/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/16/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/18/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/22/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/23/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/26/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/30/2000",
+    "species": "Monarch Tagged",
+    "country": "CA",
+    "stateProvince": "ON",
+    "decimalLatitude": 43.77643,
+    "decimalLongitude": -79.2317521,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.2317521,
+     43.77643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/8/2000",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 38.2464,
+    "decimalLongitude": -97.3489233,
+    "number": 14
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3489233,
+     38.2464
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,1772 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/1/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 25.72149,
+    "decimalLongitude": -80.2683838,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.2683838,
+     25.72149
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/1/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.64391,
+    "decimalLongitude": -98.7375911,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.7375911,
+     37.64391
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/1/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.93326,
+    "decimalLongitude": -90.1700748,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1700748,
+     29.93326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/1/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/10/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/10/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/10/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/10/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 13
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/11/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/11/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.56412,
+    "decimalLongitude": -95.0254839,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0254839,
+     29.56412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/11/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/12/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/12/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "SC",
+    "decimalLatitude": 32.65518,
+    "decimalLongitude": -79.9403673,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9403673,
+     32.65518
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/12/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/12/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/12/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 30.45485,
+    "decimalLongitude": -97.6222665,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.6222665,
+     30.45485
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/13/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/13/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.93326,
+    "decimalLongitude": -90.1700748,
+    "number": 12
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1700748,
+     29.93326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/13/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 39.4734,
+    "decimalLongitude": -82.7393363,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7393363,
+     39.4734
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/13/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/14/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/14/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 30.45828,
+    "decimalLongitude": -91.1403196,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1403196,
+     30.45828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/14/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/14/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/15/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/15/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/16/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/16/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/17/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/17/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/18/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 27.80058,
+    "decimalLongitude": -97.396381,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.396381,
+     27.80058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/19/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/19/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/19/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 27.80058,
+    "decimalLongitude": -97.396381,
+    "number": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.396381,
+     27.80058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/19/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/19/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/2/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/20/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/21/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/22/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/23/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/23/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/24/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.44671,
+    "decimalLongitude": -80.3256056,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.3256056,
+     27.44671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/24/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.77079,
+    "decimalLongitude": -82.632806,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.632806,
+     27.77079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/24/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/25/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 27.80058,
+    "decimalLongitude": -97.396381,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.396381,
+     27.80058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/26/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.77079,
+    "decimalLongitude": -82.632806,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.632806,
+     27.77079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/26/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/26/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.67,
+    "decimalLongitude": -81.2081203,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2081203,
+     28.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/27/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/27/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.53834,
+    "decimalLongitude": -81.3792365,
+    "number": 11
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3792365,
+     28.53834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/27/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.67,
+    "decimalLongitude": -81.2081203,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2081203,
+     28.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/27/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.56412,
+    "decimalLongitude": -95.0254839,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0254839,
+     29.56412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/28/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/28/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.53834,
+    "decimalLongitude": -81.3792365,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3792365,
+     28.53834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/28/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.67,
+    "decimalLongitude": -81.2081203,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2081203,
+     28.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/28/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 27.80058,
+    "decimalLongitude": -97.396381,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.396381,
+     27.80058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/29/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.53834,
+    "decimalLongitude": -81.3792365,
+    "number": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3792365,
+     28.53834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/29/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 28.615,
+    "decimalLongitude": -96.6260892,
+    "number": 15
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6260892,
+     28.615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.53834,
+    "decimalLongitude": -81.3792365,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3792365,
+     28.53834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.93326,
+    "decimalLongitude": -90.1700748,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1700748,
+     29.93326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "SC",
+    "decimalLatitude": 32.65518,
+    "decimalLongitude": -79.9403673,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9403673,
+     32.65518
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "SC",
+    "decimalLatitude": 32.71183,
+    "decimalLongitude": -79.952113,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.952113,
+     32.71183
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 30.34965,
+    "decimalLongitude": -97.3702735,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.3702735,
+     30.34965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/30/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.53834,
+    "decimalLongitude": -81.3792365,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3792365,
+     28.53834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/30/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.67,
+    "decimalLongitude": -81.2081203,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2081203,
+     28.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/31/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.53834,
+    "decimalLongitude": -81.3792365,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.3792365,
+     28.53834
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/31/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.67,
+    "decimalLongitude": -81.2081203,
+    "number": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.2081203,
+     28.67
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/31/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 28.615,
+    "decimalLongitude": -96.6260892,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6260892,
+     28.615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/4/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 28.615,
+    "decimalLongitude": -96.6260892,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.6260892,
+     28.615
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/4/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/4/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.56412,
+    "decimalLongitude": -95.0254839,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0254839,
+     29.56412
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/4/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/5/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/5/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/5/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/6/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/6/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.93326,
+    "decimalLongitude": -90.1700748,
+    "number": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1700748,
+     29.93326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/6/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/7/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/7/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/7/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/8/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/8/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.93326,
+    "decimalLongitude": -90.1700748,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1700748,
+     29.93326
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/8/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 30.45828,
+    "decimalLongitude": -91.1403196,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1403196,
+     30.45828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/8/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "SC",
+    "decimalLatitude": 32.65518,
+    "decimalLongitude": -79.9403673,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9403673,
+     32.65518
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/8/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/8/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/9/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.01863,
+    "decimalLongitude": -82.1128641,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.1128641,
+     28.01863
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/9/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 28.07807,
+    "decimalLongitude": -82.7637127,
+    "number": 6
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.7637127,
+     28.07807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/9/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50745,
+    "decimalLongitude": -95.0949303,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0949303,
+     29.50745
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "12/9/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 15
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  }
+ ]
+}

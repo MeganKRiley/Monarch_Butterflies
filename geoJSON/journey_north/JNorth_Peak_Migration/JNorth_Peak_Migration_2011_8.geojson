@@ -1,0 +1,141 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-26",
+    "species": "Monarch PEAK Migration",
+    "number": 50,
+    "latitude": 44.859,
+    "longitude": -88.788
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.788,
+     44.859
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-26",
+    "species": "Monarch PEAK Migration",
+    "number": 24,
+    "latitude": 45.181,
+    "longitude": -92.55
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.55,
+     45.181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-27",
+    "species": "Monarch PEAK Migration",
+    "number": 30,
+    "latitude": 42.104,
+    "longitude": -87.758
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.758,
+     42.104
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-28",
+    "species": "Monarch PEAK Migration",
+    "number": 36,
+    "latitude": 45.181,
+    "longitude": -92.55
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.55,
+     45.181
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-29",
+    "species": "Monarch PEAK Migration",
+    "number": 20,
+    "latitude": 41.886,
+    "longitude": -87.623
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.623,
+     41.886
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-31",
+    "species": "Monarch PEAK Migration",
+    "number": 25,
+    "latitude": 44.066,
+    "longitude": -92.51
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.51,
+     44.066
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-31",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 44.337,
+    "longitude": -68.057
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -68.057,
+     44.337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-08-31",
+    "species": "Monarch PEAK Migration",
+    "number": 50,
+    "latitude": 45.181,
+    "longitude": -92.55
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.55,
+     45.181
+    ]
+   }
+  }
+ ]
+}

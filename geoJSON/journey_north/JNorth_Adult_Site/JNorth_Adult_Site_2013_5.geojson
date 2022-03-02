@@ -1,0 +1,124 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-03",
+    "species": "Monarch Adult Sighted",
+    "number": 2,
+    "latitude": 37.465,
+    "longitude": -88.986
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.986,
+     37.465
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-12",
+    "species": "Monarch Adult Sighted",
+    "number": 15,
+    "latitude": 30.703,
+    "longitude": -94.807
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.807,
+     30.703
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-15",
+    "species": "Monarch Adult Sighted",
+    "number": 1,
+    "latitude": 38.45,
+    "longitude": -76.22
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.22,
+     38.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-18",
+    "species": "Monarch Adult Sighted",
+    "number": 2,
+    "latitude": 39.746,
+    "longitude": -75.547
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.547,
+     39.746
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-19",
+    "species": "Monarch Adult Sighted",
+    "number": 1,
+    "latitude": 32.237,
+    "longitude": -80.887
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.887,
+     32.237
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-25",
+    "species": "Monarch Adult Sighted",
+    "number": 1,
+    "latitude": 43.592,
+    "longitude": -70.369
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.369,
+     43.592
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-05-30",
+    "species": "Monarch Adult Sighted",
+    "number": 1,
+    "latitude": 34.604,
+    "longitude": -106.669
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.669,
+     34.604
+    ]
+   }
+  }
+ ]
+}

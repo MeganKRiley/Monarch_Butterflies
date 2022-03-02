@@ -1,0 +1,430 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.76,
+    "longitude": -117.068
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.068,
+     32.76
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-04",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.222,
+    "longitude": -110.97
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.97,
+     32.222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-05",
+    "species": "Monarch Larva Sighted",
+    "number": 20,
+    "latitude": 29.53,
+    "longitude": -90.329
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.329,
+     29.53
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-07",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.97,
+    "longitude": -95.66
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.66,
+     29.97
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-07",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 32.39,
+    "longitude": -80.45
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.45,
+     32.39
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-07",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 34.371,
+    "longitude": -119.063
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.063,
+     34.371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-08",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 28.453,
+    "longitude": -96.408
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.408,
+     28.453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-08",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 31.214,
+    "longitude": -82.354
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.354,
+     31.214
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-11",
+    "species": "Monarch Larva Sighted",
+    "number": 6,
+    "latitude": 30.375,
+    "longitude": -87.696
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.696,
+     30.375
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-12",
+    "species": "Monarch Larva Sighted",
+    "number": 12,
+    "latitude": 27.801,
+    "longitude": -97.396
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.396,
+     27.801
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-12",
+    "species": "Monarch Larva Sighted",
+    "number": 14,
+    "latitude": 33.72,
+    "longitude": -116.285
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.285,
+     33.72
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-13",
+    "species": "Monarch Larva Sighted",
+    "number": 4,
+    "latitude": 27.651,
+    "longitude": -97.298
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.298,
+     27.651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-14",
+    "species": "Monarch Larva Sighted",
+    "number": 2,
+    "latitude": 33.367,
+    "longitude": -111.803
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.803,
+     33.367
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-14",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 34.37,
+    "longitude": -119.062
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.062,
+     34.37
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-17",
+    "species": "Monarch Larva Sighted",
+    "number": 8,
+    "latitude": 29.761,
+    "longitude": -95.37
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.37,
+     29.761
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-18",
+    "species": "Monarch Larva Sighted",
+    "number": 13,
+    "latitude": 27.651,
+    "longitude": -97.298
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.298,
+     27.651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-19",
+    "species": "Monarch Larva Sighted",
+    "number": 20,
+    "latitude": 29.597,
+    "longitude": -94.987
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.987,
+     29.597
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-20",
+    "species": "Monarch Larva Sighted",
+    "number": 2,
+    "latitude": 28.666,
+    "longitude": -81.36
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.36,
+     28.666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-21",
+    "species": "Monarch Larva Sighted",
+    "number": 4,
+    "latitude": 32.222,
+    "longitude": -110.97
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.97,
+     32.222
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-23",
+    "species": "Monarch Larva Sighted",
+    "number": 8,
+    "latitude": 37.5,
+    "longitude": -121.976
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.976,
+     37.5
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-24",
+    "species": "Monarch Larva Sighted",
+    "number": 6,
+    "latitude": 27.651,
+    "longitude": -97.298
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.298,
+     27.651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-24",
+    "species": "Monarch Larva Sighted",
+    "number": 50,
+    "latitude": 29.803,
+    "longitude": -95.554
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.554,
+     29.803
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-27",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 27.801,
+    "longitude": -97.396
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.396,
+     27.801
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-28",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 27.651,
+    "longitude": -97.298
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.298,
+     27.651
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-01-28",
+    "species": "Monarch Larva Sighted",
+    "number": 21,
+    "latitude": 28.453,
+    "longitude": -96.408
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.408,
+     28.453
+    ]
+   }
+  }
+ ]
+}

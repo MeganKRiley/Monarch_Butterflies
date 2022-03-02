@@ -1,0 +1,214 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/1/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/14/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MI",
+    "decimalLatitude": 43.12003,
+    "decimalLongitude": -85.5600316,
+    "number": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.5600316,
+     43.12003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/2/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/20/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "ME",
+    "decimalLatitude": 43.74353,
+    "decimalLongitude": -70.2601759,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -70.2601759,
+     43.74353
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/23/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MN",
+    "decimalLatitude": 47.73301,
+    "decimalLongitude": -94.548579,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.548579,
+     47.73301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/27/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "IN",
+    "decimalLatitude": 41.68199,
+    "decimalLongitude": -85.9766671,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.9766671,
+     41.68199
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/29/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "IN",
+    "decimalLatitude": 41.68199,
+    "decimalLongitude": -85.9766671,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.9766671,
+     41.68199
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/3/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.50379,
+    "decimalLongitude": -95.0873,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.0873,
+     29.50379
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/31/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "CT",
+    "decimalLatitude": 41.27055,
+    "decimalLongitude": -72.9469711,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.9469711,
+     41.27055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/6/1999",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TX",
+    "decimalLatitude": 29.76043,
+    "decimalLongitude": -95.3698028,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.3698028,
+     29.76043
+    ]
+   }
+  }
+ ]
+}

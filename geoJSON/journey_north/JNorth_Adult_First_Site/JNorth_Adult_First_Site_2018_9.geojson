@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-09-25",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 35.571,
+    "longitude": -106.338
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.338,
+     35.571
+    ]
+   }
+  }
+ ]
+}

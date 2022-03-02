@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-07-01",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 39.586,
+    "longitude": -75.84
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.84,
+     39.586
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-07-21",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 32.779,
+    "longitude": -117.017
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.017,
+     32.779
+    ]
+   }
+  }
+ ]
+}

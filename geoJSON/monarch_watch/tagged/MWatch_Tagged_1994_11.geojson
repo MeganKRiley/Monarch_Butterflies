@@ -1,0 +1,81 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/14/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "VA",
+    "decimalLatitude": 38.8462236,
+    "decimalLongitude": -77.3063733,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.3063733,
+     38.8462236
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/3/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "PA",
+    "decimalLatitude": 41.23339,
+    "decimalLongitude": -80.44868,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.44868,
+     41.23339
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/5/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MD",
+    "decimalLatitude": 39.14344,
+    "decimalLongitude": -77.2013705,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.2013705,
+     39.14344
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/8/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KY",
+    "decimalLatitude": 37.08339,
+    "decimalLongitude": -88.6000478,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.6000478,
+     37.08339
+    ]
+   }
+  }
+ ]
+}

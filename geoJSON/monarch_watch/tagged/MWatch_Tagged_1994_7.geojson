@@ -1,0 +1,43 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/11/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 38.77501,
+    "decimalLongitude": -95.1863603,
+    "number": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1863603,
+     38.77501
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/7/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 38.77501,
+    "decimalLongitude": -95.1863603,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.1863603,
+     38.77501
+    ]
+   }
+  }
+ ]
+}

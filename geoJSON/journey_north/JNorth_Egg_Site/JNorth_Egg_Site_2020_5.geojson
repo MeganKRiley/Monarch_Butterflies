@@ -1,0 +1,1467 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-02",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 36.362,
+    "longitude": -90.754
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.754,
+     36.362
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-03",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 32.793,
+    "longitude": -96.581
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.581,
+     32.793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-03",
+    "species": "Monarch Egg Sighted",
+    "number": 5,
+    "latitude": 39.904,
+    "longitude": -86.162
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.162,
+     39.904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-04",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 30.282,
+    "longitude": -81.445
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.445,
+     30.282
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-04",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 32.791,
+    "longitude": -96.584
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.584,
+     32.791
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-04",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 40.056,
+    "longitude": -76.344
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.344,
+     40.056
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-05",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 32.738,
+    "longitude": -96.461
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.461,
+     32.738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-05",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 33.223,
+    "longitude": -96.989
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.989,
+     33.223
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-05",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 36.402,
+    "longitude": -97.894
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.894,
+     36.402
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-05",
+    "species": "Monarch Egg Sighted",
+    "number": 5,
+    "latitude": 36.519,
+    "longitude": -96.107
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.107,
+     36.519
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-06",
+    "species": "Monarch Egg Sighted",
+    "number": 10,
+    "latitude": 39.622,
+    "longitude": -86.108
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.108,
+     39.622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-07",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 32.726,
+    "longitude": -96.432
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.432,
+     32.726
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-07",
+    "species": "Monarch Egg Sighted",
+    "number": 10,
+    "latitude": 33.561,
+    "longitude": -117.708
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.708,
+     33.561
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-07",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 36.292,
+    "longitude": -82.48
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.48,
+     36.292
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-08",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 33.195,
+    "longitude": -97.104
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.104,
+     33.195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-09",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 35.932,
+    "longitude": -95.881
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.881,
+     35.932
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-10",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 32.793,
+    "longitude": -96.582
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.582,
+     32.793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-10",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 35.414,
+    "longitude": -81.999
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.999,
+     35.414
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-13",
+    "species": "Monarch Egg Sighted",
+    "number": 20,
+    "latitude": 35.595,
+    "longitude": -82.552
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.552,
+     35.595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-14",
+    "species": "Monarch Egg Sighted",
+    "number": 20,
+    "latitude": 33.141,
+    "longitude": -117.16
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.16,
+     33.141
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-14",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 37.396,
+    "longitude": -94.707
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.707,
+     37.396
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-15",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 30.159,
+    "longitude": -90.887
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.887,
+     30.159
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-15",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 39.768,
+    "longitude": -94.847
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.847,
+     39.768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-16",
+    "species": "Monarch Egg Sighted",
+    "number": 12,
+    "latitude": 33.755,
+    "longitude": -118.025
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.025,
+     33.755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-16",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 34.265,
+    "longitude": -118.457
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.457,
+     34.265
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-17",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 32.794,
+    "longitude": -96.583
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.583,
+     32.794
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-18",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 36.402,
+    "longitude": -97.894
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.894,
+     36.402
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-19",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 32.794,
+    "longitude": -96.581
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.581,
+     32.794
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-20",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 32.793,
+    "longitude": -96.581
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.581,
+     32.793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-20",
+    "species": "Monarch Egg Sighted",
+    "number": 20,
+    "latitude": 35.595,
+    "longitude": -82.552
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.552,
+     35.595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-20",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 36.052,
+    "longitude": -95.907
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.907,
+     36.052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-21",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 32.721,
+    "longitude": -96.427
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.427,
+     32.721
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-21",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 33.755,
+    "longitude": -118.025
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.025,
+     33.755
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-22",
+    "species": "Monarch Egg Sighted",
+    "number": 13,
+    "latitude": 34.951,
+    "longitude": -94.637
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.637,
+     34.951
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-23",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 32.792,
+    "longitude": -96.581
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.581,
+     32.792
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-23",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 35.514,
+    "longitude": -82.396
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.396,
+     35.514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-23",
+    "species": "Monarch Egg Sighted",
+    "number": 5,
+    "latitude": 41.088,
+    "longitude": -74.175
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.175,
+     41.088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-24",
+    "species": "Monarch Egg Sighted",
+    "number": 17,
+    "latitude": 34.138,
+    "longitude": -99.323
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.323,
+     34.138
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-24",
+    "species": "Monarch Egg Sighted",
+    "number": 38,
+    "latitude": 41.477,
+    "longitude": -81.572
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.572,
+     41.477
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-25",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 26.453,
+    "longitude": -81.791
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.791,
+     26.453
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-25",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 39.788,
+    "longitude": -74.335
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.335,
+     39.788
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-25",
+    "species": "Monarch Egg Sighted",
+    "number": 69,
+    "latitude": 42.155,
+    "longitude": -82.688
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.688,
+     42.155
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-25",
+    "species": "Monarch Egg Sighted",
+    "number": 6,
+    "latitude": 42.229,
+    "longitude": -83.087
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.087,
+     42.229
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-25",
+    "species": "Monarch Egg Sighted",
+    "number": 8,
+    "latitude": 42.299,
+    "longitude": -83.424
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.424,
+     42.299
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 37.739,
+    "longitude": -80.666
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.666,
+     37.739
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 38.45,
+    "longitude": -75.137
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.137,
+     38.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 42.422,
+    "longitude": -87.857
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.857,
+     42.422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 5,
+    "latitude": 42.926,
+    "longitude": -88.837
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.837,
+     42.926
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 43.166,
+    "longitude": -86.264
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.264,
+     43.166
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 43.399,
+    "longitude": -89.955
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.955,
+     43.399
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 44.916,
+    "longitude": -93.316
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.316,
+     44.916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-26",
+    "species": "Monarch Egg Sighted",
+    "number": 20,
+    "latitude": 45.727,
+    "longitude": -92.27
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.27,
+     45.727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 9,
+    "latitude": 30.408,
+    "longitude": -90.059
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.059,
+     30.408
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 33.195,
+    "longitude": -97.104
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.104,
+     33.195
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 35.435,
+    "longitude": -97.435
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.435,
+     35.435
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 8,
+    "latitude": 37.938,
+    "longitude": -122.343
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343,
+     37.938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 6,
+    "latitude": 38.069,
+    "longitude": -81.024
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.024,
+     38.069
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 40.372,
+    "longitude": -75.293
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.293,
+     40.372
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 5,
+    "latitude": 40.859,
+    "longitude": -97.996
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.996,
+     40.859
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 41.6,
+    "longitude": -87.451
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.451,
+     41.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 7,
+    "latitude": 41.868,
+    "longitude": -88.011
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.011,
+     41.868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 43.086,
+    "longitude": -86.24
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.24,
+     43.086
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 15,
+    "latitude": 43.422,
+    "longitude": -88.368
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.368,
+     43.422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 6,
+    "latitude": 43.622,
+    "longitude": -79.501
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.501,
+     43.622
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-27",
+    "species": "Monarch Egg Sighted",
+    "number": 6,
+    "latitude": 44.855,
+    "longitude": -93.471
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.471,
+     44.855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-28",
+    "species": "Monarch Egg Sighted",
+    "number": 6,
+    "latitude": 39.378,
+    "longitude": -75.737
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.737,
+     39.378
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-28",
+    "species": "Monarch Egg Sighted",
+    "number": 15,
+    "latitude": 40.119,
+    "longitude": -74.93
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.93,
+     40.119
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-28",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 41.516,
+    "longitude": -87.394
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.394,
+     41.516
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-28",
+    "species": "Monarch Egg Sighted",
+    "number": 13,
+    "latitude": 44.916,
+    "longitude": -93.324
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.324,
+     44.916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-28",
+    "species": "Monarch Egg Sighted",
+    "number": 17,
+    "latitude": 45.038,
+    "longitude": -93.223
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.223,
+     45.038
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-29",
+    "species": "Monarch Egg Sighted",
+    "number": 10,
+    "latitude": 37.418,
+    "longitude": -122.071
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.071,
+     37.418
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-29",
+    "species": "Monarch Egg Sighted",
+    "number": 7,
+    "latitude": 43.422,
+    "longitude": -88.368
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.368,
+     43.422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-29",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 44.916,
+    "longitude": -93.324
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.324,
+     44.916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-30",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 39.569,
+    "longitude": -89.962
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.962,
+     39.569
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-30",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 42.962,
+    "longitude": -88.325
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.325,
+     42.962
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-30",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 44.916,
+    "longitude": -93.324
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.324,
+     44.916
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-30",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 45.047,
+    "longitude": -93.225
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.225,
+     45.047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 32.793,
+    "longitude": -96.584
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.584,
+     32.793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 6,
+    "latitude": 40.896,
+    "longitude": -111.862
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.862,
+     40.896
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 41.72,
+    "longitude": -83.705
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.705,
+     41.72
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 7,
+    "latitude": 42.349,
+    "longitude": -85.623
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.623,
+     42.349
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 2,
+    "latitude": 43.075,
+    "longitude": -89.276
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.276,
+     43.075
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 4,
+    "latitude": 43.422,
+    "longitude": -88.369
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.369,
+     43.422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 7,
+    "latitude": 44.731,
+    "longitude": -92.851
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.851,
+     44.731
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 3,
+    "latitude": 45.047,
+    "longitude": -93.225
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.225,
+     45.047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-05-31",
+    "species": "Monarch Egg Sighted",
+    "number": 1,
+    "latitude": 45.307,
+    "longitude": -79.248
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.248,
+     45.307
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,124 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-06",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 29.809,
+    "longitude": -85.296
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.296,
+     29.809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-09",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 2,
+    "latitude": 28.513,
+    "longitude": -100.527
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.527,
+     28.513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-10",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 33.68,
+    "longitude": -117.907
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.907,
+     33.68
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-14",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-15",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-16",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 29.957,
+    "longitude": -90.078
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.078,
+     29.957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2005-02-16",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.34,
+    "longitude": -81.831
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.831,
+     30.34
+    ]
+   }
+  }
+ ]
+}

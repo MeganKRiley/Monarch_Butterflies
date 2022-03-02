@@ -1,0 +1,107 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-08-27",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 45.855,
+    "longitude": -84.864
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.864,
+     45.855
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-08-28",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 44.957,
+    "longitude": -93.54
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.54,
+     44.957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-08-29",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 44.55,
+    "longitude": -78.55
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.55,
+     44.55
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-08-29",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 44.793,
+    "longitude": -94.198
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.198,
+     44.793
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-08-29",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 46.283,
+    "longitude": -96.098
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.098,
+     46.283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-08-30",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 43.926,
+    "longitude": -95.229
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.229,
+     43.926
+    ]
+   }
+  }
+ ]
+}

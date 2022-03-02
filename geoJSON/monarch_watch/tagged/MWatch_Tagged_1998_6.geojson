@@ -1,0 +1,81 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "6/13/1998",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TN",
+    "decimalLatitude": 35.72814,
+    "decimalLongitude": -83.8132305,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.8132305,
+     35.72814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "6/14/1998",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 30.45828,
+    "decimalLongitude": -91.1403196,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1403196,
+     30.45828
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "6/14/1998",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "TN",
+    "decimalLatitude": 35.72814,
+    "decimalLongitude": -83.8132305,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.8132305,
+     35.72814
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "6/16/1998",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 30.45828,
+    "decimalLongitude": -91.1403196,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.1403196,
+     30.45828
+    ]
+   }
+  }
+ ]
+}

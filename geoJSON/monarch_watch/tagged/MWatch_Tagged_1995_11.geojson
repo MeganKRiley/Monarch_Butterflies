@@ -1,0 +1,613 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/1/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KY",
+    "decimalLatitude": 37.57395,
+    "decimalLongitude": -85.7399606,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.7399606,
+     37.57395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/10/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/11/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/14/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/14/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "IL",
+    "decimalLatitude": 41.78864,
+    "decimalLongitude": -89.6962194,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.6962194,
+     41.78864
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/15/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 12
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/17/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 19
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/17/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/18/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 20
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/19/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 11
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/2/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 42.85341,
+    "decimalLongitude": -74.9854335,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.9854335,
+     42.85341
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/20/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/21/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/23/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/24/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/25/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/26/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/27/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/28/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/3/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MA",
+    "decimalLatitude": 42.44304,
+    "decimalLongitude": -71.2289641,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.2289641,
+     42.44304
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/3/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MD",
+    "decimalLatitude": 38.61429,
+    "decimalLongitude": -76.5121762,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.5121762,
+     38.61429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/3/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NJ",
+    "decimalLatitude": 40.87093,
+    "decimalLongitude": -74.9121142,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.9121142,
+     40.87093
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/4/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "FL",
+    "decimalLatitude": 27.33643,
+    "decimalLongitude": -82.5306527,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.5306527,
+     27.33643
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/4/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NC",
+    "decimalLatitude": 35.77959,
+    "decimalLongitude": -78.6381787,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.6381787,
+     35.77959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/5/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MD",
+    "decimalLatitude": 38.61595,
+    "decimalLongitude": -76.613015,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.613015,
+     38.61595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/6/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "IL",
+    "decimalLatitude": 41.78864,
+    "decimalLongitude": -89.6962194,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.6962194,
+     41.78864
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/6/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 40.98065,
+    "decimalLongitude": -73.6837399,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.6837399,
+     40.98065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/7/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.95107,
+    "decimalLongitude": -90.0715323,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0715323,
+     29.95107
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/7/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.98409,
+    "decimalLongitude": -90.1528519,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.1528519,
+     29.98409
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/8/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KY",
+    "decimalLatitude": 37.57395,
+    "decimalLongitude": -85.7399606,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.7399606,
+     37.57395
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/8/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.95107,
+    "decimalLongitude": -90.0715323,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0715323,
+     29.95107
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "11/9/1995",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "LA",
+    "decimalLatitude": 29.95107,
+    "decimalLongitude": -90.0715323,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.0715323,
+     29.95107
+    ]
+   }
+  }
+ ]
+}

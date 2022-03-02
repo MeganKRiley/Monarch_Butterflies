@@ -1,0 +1,77 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2001,
+    "species": "Monarch Tag Recovered",
+    "Location": "Cerro Pelon",
+    "latitude": 19.025,
+    "longitude": -100.142,
+    "number": 93
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.142,
+     19.025
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2001,
+    "species": "Monarch Tag Recovered",
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": -115.7257,
+    "number": 1477
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7257,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2001,
+    "species": "Monarch Tag Recovered",
+    "Location": "San Andres",
+    "latitude": 18.4487,
+    "longitude": -95.21327,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.21327,
+     18.4487
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2001,
+    "species": "Monarch Tag Recovered",
+    "Location": "Sierra Chincua",
+    "latitude": 20.11766666666667,
+    "longitude": -100.46366666666667,
+    "number": 365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.46366666666667,
+     20.11766666666667
+    ]
+   }
+  }
+ ]
+}

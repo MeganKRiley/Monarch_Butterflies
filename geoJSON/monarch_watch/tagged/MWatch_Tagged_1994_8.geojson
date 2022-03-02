@@ -1,0 +1,822 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/10/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.69949,
+    "decimalLongitude": -73.4529124,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4529124,
+     44.69949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/14/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 39.20194,
+    "decimalLongitude": -96.3049975,
+    "number": 28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.3049975,
+     39.20194
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/23/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MD",
+    "decimalLatitude": 38.61595,
+    "decimalLongitude": -76.613015,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.613015,
+     38.61595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/25/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/25/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.77087,
+    "decimalLongitude": -73.4920802,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4920802,
+     44.77087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/26/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/26/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MN",
+    "decimalLatitude": 45.00608,
+    "decimalLongitude": -93.1566107,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.1566107,
+     45.00608
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/26/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.43836,
+    "decimalLongitude": -74.2525981,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2525981,
+     44.43836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/26/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.77087,
+    "decimalLongitude": -73.4920802,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4920802,
+     44.77087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NH",
+    "decimalLatitude": 42.83143,
+    "decimalLongitude": -72.1771541,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1771541,
+     42.83143
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 43.21285,
+    "decimalLongitude": -75.4557303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.4557303,
+     43.21285
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.27503,
+    "decimalLongitude": -73.5655742,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5655742,
+     44.27503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.3295,
+    "decimalLongitude": -74.1312662,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1312662,
+     44.3295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 39.48089,
+    "decimalLongitude": -84.4577222,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.4577222,
+     39.48089
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/27/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 40.05812,
+    "decimalLongitude": -82.4012642,
+    "number": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.4012642,
+     40.05812
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/28/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NH",
+    "decimalLatitude": 42.83143,
+    "decimalLongitude": -72.1771541,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.1771541,
+     42.83143
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/28/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.27503,
+    "decimalLongitude": -73.5655742,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.5655742,
+     44.27503
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/28/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.3295,
+    "decimalLongitude": -74.1312662,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.1312662,
+     44.3295
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/28/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.77087,
+    "decimalLongitude": -73.4920802,
+    "number": 3
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4920802,
+     44.77087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/28/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.84866,
+    "decimalLongitude": -74.2948983,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2948983,
+     44.84866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/28/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 39.48089,
+    "decimalLongitude": -84.4577222,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.4577222,
+     39.48089
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NH",
+    "decimalLatitude": 42.86147,
+    "decimalLongitude": -71.6253487,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6253487,
+     42.86147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.43836,
+    "decimalLongitude": -74.2525981,
+    "number": 9
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2525981,
+     44.43836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.77087,
+    "decimalLongitude": -73.4920802,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4920802,
+     44.77087
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 40.03118,
+    "decimalLongitude": -81.5884561,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.5884561,
+     40.03118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 40.04499,
+    "decimalLongitude": -81.58933,
+    "number": 5
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.58933,
+     40.04499
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/29/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "VT",
+    "decimalLatitude": 44.47588,
+    "decimalLongitude": -73.212072,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.212072,
+     44.47588
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/30/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/30/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MN",
+    "decimalLatitude": 44.76904,
+    "decimalLongitude": -94.1517524,
+    "number": 11
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.1517524,
+     44.76904
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/30/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 43.21285,
+    "decimalLongitude": -75.4557303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.4557303,
+     43.21285
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/30/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.27949,
+    "decimalLongitude": -73.9798713,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.9798713,
+     44.27949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/30/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.69949,
+    "decimalLongitude": -73.4529124,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4529124,
+     44.69949
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/30/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 40.05812,
+    "decimalLongitude": -82.4012642,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.4012642,
+     40.05812
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "KS",
+    "decimalLatitude": 37.68718,
+    "decimalLongitude": -97.330053,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.330053,
+     37.68718
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MN",
+    "decimalLatitude": 44.9537,
+    "decimalLongitude": -93.0899578,
+    "number": 10
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.0899578,
+     44.9537
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NH",
+    "decimalLatitude": 42.86147,
+    "decimalLongitude": -71.6253487,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.6253487,
+     42.86147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 43.21285,
+    "decimalLongitude": -75.4557303,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.4557303,
+     43.21285
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.43836,
+    "decimalLongitude": -74.2525981,
+    "number": 11
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2525981,
+     44.43836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.84866,
+    "decimalLongitude": -74.2948983,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.2948983,
+     44.84866
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/31/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "OH",
+    "decimalLatitude": 40.04499,
+    "decimalLongitude": -81.58933,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.58933,
+     40.04499
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "8/9/1994",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "NY",
+    "decimalLatitude": 44.69949,
+    "decimalLongitude": -73.4529124,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.4529124,
+     44.69949
+    ]
+   }
+  }
+ ]
+}

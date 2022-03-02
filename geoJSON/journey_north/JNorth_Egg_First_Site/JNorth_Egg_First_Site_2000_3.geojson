@@ -1,0 +1,226 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-02",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-03",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 28.807,
+    "longitude": -96.979
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.979,
+     28.807
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-04",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.449,
+    "longitude": -91.188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.188,
+     30.449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-10",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 28.81,
+    "longitude": -96.98
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.98,
+     28.81
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-13",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 29.75,
+    "longitude": -95.35
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.35,
+     29.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-14",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.449,
+    "longitude": -91.188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.188,
+     30.449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-15",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.54,
+    "longitude": -96.725
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.725,
+     30.54
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-16",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 26.218,
+    "longitude": -98.238
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.238,
+     26.218
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-23",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.429,
+    "longitude": -84.258
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.258,
+     30.429
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-24",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 29.469,
+    "longitude": -98.528
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.528,
+     29.469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-24",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 33.58,
+    "longitude": -91.792
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.792,
+     33.58
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-26",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 31.605,
+    "longitude": -99.015
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.015,
+     31.605
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2000-03-27",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 34.859,
+    "longitude": -92.398
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.398,
+     34.859
+    ]
+   }
+  }
+ ]
+}

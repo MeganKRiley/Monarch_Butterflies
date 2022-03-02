@@ -1,0 +1,634 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-01",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 48.24,
+    "longitude": -69.58
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.58,
+     48.24
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-03",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 39.707,
+    "longitude": -82.607
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.607,
+     39.707
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-03",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 45.35,
+    "longitude": -65.542
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.542,
+     45.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-03",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 49.45,
+    "longitude": -105.9
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.9,
+     49.45
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-04",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 46.002,
+    "longitude": -64.552
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.552,
+     46.002
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-05",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 45.9,
+    "longitude": -66.15
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.15,
+     45.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-05",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 46.033,
+    "longitude": -74.217
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.217,
+     46.033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-05",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 2,
+    "latitude": 46.11,
+    "longitude": -64.802
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.802,
+     46.11
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-06",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 40.046,
+    "longitude": -105.198
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -105.198,
+     40.046
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-06",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 42.192,
+    "longitude": -72.459
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.459,
+     42.192
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-08",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 39.147,
+    "longitude": -75.481
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.481,
+     39.147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-08",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 41.728,
+    "longitude": -89.693
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.693,
+     41.728
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-09",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.581,
+    "longitude": -69.243
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.243,
+     44.581
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-09",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 45.75,
+    "longitude": -65.083
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -65.083,
+     45.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-09",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 2,
+    "latitude": 46.033,
+    "longitude": -64.717
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.717,
+     46.033
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-10",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 40.107,
+    "longitude": -74.938
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.938,
+     40.107
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-10",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 40.198,
+    "longitude": -76.854
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.854,
+     40.198
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-11",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.36,
+    "longitude": -81.686
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.686,
+     38.36
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-12",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 41.465,
+    "longitude": -74.421
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.421,
+     41.465
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-12",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.738,
+    "longitude": -91.51
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.51,
+     44.738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-12",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 47.313,
+    "longitude": -94.208
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.208,
+     47.313
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-13",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.529,
+    "longitude": -96.28
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.28,
+     38.529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-17",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 36.258,
+    "longitude": -87.066
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.066,
+     36.258
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-17",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 37.538,
+    "longitude": -77.436
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.436,
+     37.538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-18",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 39.294,
+    "longitude": -76.623
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.623,
+     39.294
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-19",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 47.999,
+    "longitude": -122.188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.188,
+     47.999
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-21",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 40.694,
+    "longitude": -73.991
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.991,
+     40.694
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-22",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 40.782,
+    "longitude": -73.951
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.951,
+     40.782
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-26",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 40.75,
+    "longitude": -73.998
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.998,
+     40.75
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-26",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 41.337,
+    "longitude": -75.557
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.557,
+     41.337
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-26",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 41.382,
+    "longitude": -81.53
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.53,
+     41.382
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-27",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 35.384,
+    "longitude": -119.019
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.019,
+     35.384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-27",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.296,
+    "longitude": -104.537
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -104.537,
+     38.296
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-28",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 39.985,
+    "longitude": -75.607
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.607,
+     39.985
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-29",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.494,
+    "longitude": -122.267
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.267,
+     38.494
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-30",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 37.538,
+    "longitude": -77.436
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.436,
+     37.538
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-07-30",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.615,
+    "longitude": -116.416
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -116.416,
+     43.615
+    ]
+   }
+  }
+ ]
+}

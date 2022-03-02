@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "1998-12-23",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.07,
+    "longitude": -82.719
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.719,
+     30.07
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "1998-12-26",
+    "species": "Monarch Adult (FIRST sighted)",
+    "number": 1,
+    "latitude": 30.914,
+    "longitude": -82.154
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.154,
+     30.914
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,41 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 1993,
+    "species": "Monarch Tag Recovered",
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": -115.7257,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7257,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 1993,
+    "species": "Monarch Tag Recovered",
+    "Location": "Sierra Chincua",
+    "latitude": 20.11766666666667,
+    "longitude": -100.46366666666667,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.46366666666667,
+     20.11766666666667
+    ]
+   }
+  }
+ ]
+}

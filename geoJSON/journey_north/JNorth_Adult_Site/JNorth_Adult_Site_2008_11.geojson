@@ -1,0 +1,39 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-11-16",
+    "species": "Monarch Adult Sighted",
+    "number": 11,
+    "latitude": 43.065,
+    "longitude": -76.473
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.473,
+     43.065
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2008-11-23",
+    "species": "Monarch Adult Sighted",
+    "number": 1,
+    "latitude": 37.812,
+    "longitude": -122.24
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.24,
+     37.812
+    ]
+   }
+  }
+ ]
+}

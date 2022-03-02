@@ -1,0 +1,243 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-01",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 32.386,
+    "longitude": -90.34
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.34,
+     32.386
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-01",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 2,
+    "latitude": 36.846,
+    "longitude": -76.092
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.092,
+     36.846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-11",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 36.846,
+    "longitude": -76.092
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.092,
+     36.846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-14",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 33.15,
+    "longitude": -95.93
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.93,
+     33.15
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-18",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 33.754,
+    "longitude": -84.389
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.389,
+     33.754
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-18",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 37.994,
+    "longitude": -92.775
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.775,
+     37.994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-20",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 36.405,
+    "longitude": -86.452
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.452,
+     36.405
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-21",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 34.253,
+    "longitude": -85.124
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.124,
+     34.253
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-23",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 35.998,
+    "longitude": -86.787
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.787,
+     35.998
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-23",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.554,
+    "longitude": -96.174
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.174,
+     38.554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-27",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 37.301,
+    "longitude": -86.079
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.079,
+     37.301
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-28",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 37.008,
+    "longitude": -76.387
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.387,
+     37.008
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-29",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 36.07,
+    "longitude": -79.766
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.766,
+     36.07
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2003-04-29",
+    "species": "Monarch Egg (FIRST sighted)",
+    "number": 1,
+    "latitude": 41.332,
+    "longitude": -85.021
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.021,
+     41.332
+    ]
+   }
+  }
+ ]
+}

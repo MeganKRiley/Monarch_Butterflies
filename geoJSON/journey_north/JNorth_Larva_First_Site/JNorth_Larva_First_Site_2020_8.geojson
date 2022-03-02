@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-08-01",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 3,
+    "latitude": 49.85,
+    "longitude": -113.257
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -113.257,
+     49.85
+    ]
+   }
+  }
+ ]
+}

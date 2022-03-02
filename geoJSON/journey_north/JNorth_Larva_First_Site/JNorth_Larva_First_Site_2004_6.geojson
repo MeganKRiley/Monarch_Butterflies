@@ -1,0 +1,209 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-05",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 36.079,
+    "longitude": -79.827
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.827,
+     36.079
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-07",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 45.965,
+    "longitude": -93.287
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.287,
+     45.965
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-14",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.738,
+    "longitude": -91.51
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.51,
+     44.738
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-17",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.966,
+    "longitude": -93.084
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.084,
+     44.966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-18",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.052,
+    "longitude": -71.191
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.191,
+     43.052
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-19",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 42.055,
+    "longitude": -93.569
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.569,
+     42.055
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-22",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 42.356,
+    "longitude": -72.57
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.57,
+     42.356
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-24",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.415,
+    "longitude": -95.259
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.259,
+     38.415
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-24",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 38.799,
+    "longitude": -121.929
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.929,
+     38.799
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-24",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 46.959,
+    "longitude": -88.605
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.605,
+     46.959
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-27",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 39.358,
+    "longitude": -87.407
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.407,
+     39.358
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2004-06-30",
+    "species": "Monarch Larva (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.632,
+    "longitude": -123.284
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -123.284,
+     44.632
+    ]
+   }
+  }
+ ]
+}

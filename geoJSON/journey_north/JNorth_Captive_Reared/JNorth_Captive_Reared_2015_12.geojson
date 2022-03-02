@@ -1,0 +1,226 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-01",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 30.34,
+    "longitude": -81.831
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.831,
+     30.34
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-06",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 33.384,
+    "longitude": -79.178
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.178,
+     33.384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-07",
+    "species": "Monarch, Captive-Reared",
+    "number": 3,
+    "latitude": 31.233,
+    "longitude": -89.773
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.773,
+     31.233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-08",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 30.42,
+    "longitude": -87.224
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.224,
+     30.42
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-10",
+    "species": "Monarch, Captive-Reared",
+    "number": 6,
+    "latitude": 31.233,
+    "longitude": -89.773
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.773,
+     31.233
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-11",
+    "species": "Monarch, Captive-Reared",
+    "number": 3,
+    "latitude": 33.384,
+    "longitude": -79.178
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.178,
+     33.384
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-13",
+    "species": "Monarch, Captive-Reared",
+    "number": 3,
+    "latitude": 28.802,
+    "longitude": -81.644
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.644,
+     28.802
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-13",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 30.388,
+    "longitude": -87.059
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.059,
+     30.388
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-16",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 28.802,
+    "longitude": -81.644
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.644,
+     28.802
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-18",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 30.449,
+    "longitude": -91.188
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.188,
+     30.449
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-18",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 33.994,
+    "longitude": -118.462
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.462,
+     33.994
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-23",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 34.198,
+    "longitude": -101.786
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.786,
+     34.198
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2015-12-26",
+    "species": "Monarch, Captive-Reared",
+    "number": 8,
+    "latitude": 31.233,
+    "longitude": -89.773
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.773,
+     31.233
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,158 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-01",
+    "species": "Monarch Fall Roost",
+    "number": 100,
+    "latitude": 29.146,
+    "longitude": -95.039
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.039,
+     29.146
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-01",
+    "species": "Monarch Fall Roost",
+    "number": 30,
+    "latitude": 30.686,
+    "longitude": -88.053
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.053,
+     30.686
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-02",
+    "species": "Monarch Fall Roost",
+    "number": 70,
+    "latitude": 28.604,
+    "longitude": -95.962
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.962,
+     28.604
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-06",
+    "species": "Monarch Fall Roost",
+    "number": 1000,
+    "latitude": 20.229,
+    "longitude": -101.14
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.14,
+     20.229
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-06",
+    "species": "Monarch Fall Roost",
+    "number": 2000,
+    "latitude": 21.898,
+    "longitude": -100.358
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.358,
+     21.898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-13",
+    "species": "Monarch Fall Roost",
+    "number": 2000,
+    "latitude": 20.193,
+    "longitude": -100.692
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.692,
+     20.193
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-14",
+    "species": "Monarch Fall Roost",
+    "number": 25,
+    "latitude": 19.593,
+    "longitude": -99.054
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.054,
+     19.593
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-15",
+    "species": "Monarch Fall Roost",
+    "number": 40,
+    "latitude": 28.605,
+    "longitude": -95.962
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.962,
+     28.605
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2019-11-22",
+    "species": "Monarch Fall Roost",
+    "number": 5,
+    "latitude": 33.899,
+    "longitude": -118.398
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.398,
+     33.899
+    ]
+   }
+  }
+ ]
+}

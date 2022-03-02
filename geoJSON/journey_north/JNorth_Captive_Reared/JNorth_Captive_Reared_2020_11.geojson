@@ -1,0 +1,532 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-01",
+    "species": "Monarch, Captive-Reared",
+    "number": 5,
+    "latitude": 35.208,
+    "longitude": -97.458
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.458,
+     35.208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-01",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 35.285,
+    "longitude": -97.814
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.814,
+     35.285
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-03",
+    "species": "Monarch, Captive-Reared",
+    "number": 6,
+    "latitude": 37.938,
+    "longitude": -122.343
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343,
+     37.938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-03",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 38.779,
+    "longitude": -77.192
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.192,
+     38.779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-04",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 30.018,
+    "longitude": -92.181
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.181,
+     30.018
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-04",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 35.208,
+    "longitude": -97.458
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.458,
+     35.208
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-04",
+    "species": "Monarch, Captive-Reared",
+    "number": 5,
+    "latitude": 36.98,
+    "longitude": -79.881
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.881,
+     36.98
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-04",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 37.938,
+    "longitude": -122.343
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -122.343,
+     37.938
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-04",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 38.729,
+    "longitude": -77.107
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.107,
+     38.729
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-04",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 39.787,
+    "longitude": -77.373
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.373,
+     39.787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-05",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 39.786,
+    "longitude": -77.373
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.373,
+     39.786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-07",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 34.186,
+    "longitude": -101.718
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.718,
+     34.186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-07",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 40.043,
+    "longitude": -86.128
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.128,
+     40.043
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-07",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 44.614,
+    "longitude": -64.062
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -64.062,
+     44.614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-08",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 34.186,
+    "longitude": -101.718
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.718,
+     34.186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-08",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 40.768,
+    "longitude": -73.777
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.777,
+     40.768
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-10",
+    "species": "Monarch, Captive-Reared",
+    "number": 5,
+    "latitude": 30.121,
+    "longitude": -97.898
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.898,
+     30.121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-11",
+    "species": "Monarch, Captive-Reared",
+    "number": 3,
+    "latitude": 29.788,
+    "longitude": -95.823
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.823,
+     29.788
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-13",
+    "species": "Monarch, Captive-Reared",
+    "number": 4,
+    "latitude": 32.992,
+    "longitude": -96.593
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.593,
+     32.992
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-14",
+    "species": "Monarch, Captive-Reared",
+    "number": 5,
+    "latitude": 29.564,
+    "longitude": -95.025
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.025,
+     29.564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-15",
+    "species": "Monarch, Captive-Reared",
+    "number": 4,
+    "latitude": 29.564,
+    "longitude": -95.025
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.025,
+     29.564
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-15",
+    "species": "Monarch, Captive-Reared",
+    "number": 2,
+    "latitude": 30.268,
+    "longitude": -97.743
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.743,
+     30.268
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-15",
+    "species": "Monarch, Captive-Reared",
+    "number": 5,
+    "latitude": 36.154,
+    "longitude": -95.993
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.993,
+     36.154
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-16",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 34.124,
+    "longitude": -118.177
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.177,
+     34.124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-17",
+    "species": "Monarch, Captive-Reared",
+    "number": 24,
+    "latitude": 30.529,
+    "longitude": -87.287
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.287,
+     30.529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-18",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 34.124,
+    "longitude": -118.177
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.177,
+     34.124
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-25",
+    "species": "Monarch, Captive-Reared",
+    "number": 3,
+    "latitude": 27.824,
+    "longitude": -82.625
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.625,
+     27.824
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-25",
+    "species": "Monarch, Captive-Reared",
+    "number": 3,
+    "latitude": 30.529,
+    "longitude": -87.287
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.287,
+     30.529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-26",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 39.024,
+    "longitude": -84.609
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.609,
+     39.024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-29",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 30.403,
+    "longitude": -91.167
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.167,
+     30.403
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2020-11-29",
+    "species": "Monarch, Captive-Reared",
+    "number": 1,
+    "latitude": 34.29,
+    "longitude": -119.162
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.162,
+     34.29
+    ]
+   }
+  }
+ ]
+}

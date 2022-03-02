@@ -1,0 +1,1841 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 31.121,
+    "longitude": -97.935
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.935,
+     31.121
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 32.838,
+    "longitude": -96.485
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.485,
+     32.838
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 33.471,
+    "longitude": -82.514
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.514,
+     33.471
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.447,
+    "longitude": -75.19
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.19,
+     38.447
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.671,
+    "longitude": -93.713
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.713,
+     41.671
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.371,
+    "longitude": -71.183
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.183,
+     42.371
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-01",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 49.234,
+    "longitude": -121.758
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.758,
+     49.234
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-02",
+    "species": "Milkweed Sighted",
+    "number": 3,
+    "latitude": 34.016,
+    "longitude": -81.23
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.23,
+     34.016
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-02",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 35.666,
+    "longitude": -97.737
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.737,
+     35.666
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-02",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.442,
+    "longitude": -75.194
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.194,
+     38.442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-02",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.577,
+    "longitude": -92.174
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.174,
+     38.577
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-03",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 30.14,
+    "longitude": -95.71
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.71,
+     30.14
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-03",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.69,
+    "longitude": -97.139
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.139,
+     37.69
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-03",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.024,
+    "longitude": -94.694
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.694,
+     39.024
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-03",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.066,
+    "longitude": -87.722
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.722,
+     42.066
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-04",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 33.207,
+    "longitude": -96.95
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.95,
+     33.207
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-04",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.554,
+    "longitude": -87.452
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.452,
+     41.554
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-04",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.787,
+    "longitude": -85.868
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.868,
+     41.787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-05",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.966,
+    "longitude": -79.263
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.263,
+     37.966
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-05",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.786,
+    "longitude": -77.373
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.373,
+     39.786
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-05",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 44.95,
+    "longitude": -93.276
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.276,
+     44.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-05",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 45.119,
+    "longitude": -93.402
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.402,
+     45.119
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 4,
+    "latitude": 36.439,
+    "longitude": -88.857
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.857,
+     36.439
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 36.44,
+    "longitude": -88.858
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.858,
+     36.44
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.442,
+    "longitude": -75.194
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.194,
+     38.442
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.444,
+    "longitude": -75.132
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.132,
+     38.444
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.906,
+    "longitude": -94.225
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.225,
+     38.906
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.006,
+    "longitude": -95.516
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.516,
+     39.006
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-06",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.747,
+    "longitude": -92.564
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.564,
+     39.747
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-07",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.127,
+    "longitude": -77.554
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.554,
+     39.127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-07",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.957,
+    "longitude": -80.092
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.092,
+     40.957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-08",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 34.279,
+    "longitude": -119.262
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.262,
+     34.279
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-08",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.9,
+    "longitude": -79.716
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.716,
+     39.9
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-08",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.025,
+    "longitude": -86.262
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.262,
+     41.025
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-08",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.039,
+    "longitude": -93.611
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.611,
+     42.039
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-09",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.28,
+    "longitude": -81.495
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.495,
+     41.28
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-09",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.591,
+    "longitude": -72.621
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.621,
+     41.591
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-10",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 35.283,
+    "longitude": -120.66
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -120.66,
+     35.283
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-10",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.167,
+    "longitude": -93.26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.26,
+     37.167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-10",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.808,
+    "longitude": -91.116
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.116,
+     40.808
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-10",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.898,
+    "longitude": -72.814
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.814,
+     41.898
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-10",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.362,
+    "longitude": -88.07
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.07,
+     42.362
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-11",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.969,
+    "longitude": -86.269
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -86.269,
+     39.969
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-11",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.517,
+    "longitude": -72.838
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.838,
+     41.517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-12",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.797,
+    "longitude": -92.564
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.564,
+     39.797
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-12",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.73,
+    "longitude": -77.902
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.902,
+     40.73
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-12",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.308,
+    "longitude": -87.025
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -87.025,
+     41.308
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-12",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 45.012,
+    "longitude": -92.992
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.992,
+     45.012
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 32.376,
+    "longitude": -99.097
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.097,
+     32.376
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.695,
+    "longitude": -77.488
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.488,
+     37.695
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.672,
+    "longitude": -85.414
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -85.414,
+     39.672
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.256,
+    "longitude": -76.636
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.636,
+     40.256
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.43,
+    "longitude": -80.087
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.087,
+     40.43
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.683,
+    "longitude": -91.605
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.605,
+     41.683
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.993,
+    "longitude": -82.537
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.537,
+     41.993
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-13",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.179,
+    "longitude": -88.117
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.117,
+     43.179
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-14",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.509,
+    "longitude": -90.766
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.766,
+     41.509
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-15",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 36.127,
+    "longitude": -106.034
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -106.034,
+     36.127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-15",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.458,
+    "longitude": -74.508
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -74.508,
+     39.458
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-15",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.784,
+    "longitude": -83.726
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.726,
+     41.784
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-15",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.868,
+    "longitude": -103.754
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.754,
+     41.868
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-15",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.012,
+    "longitude": -88.232
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.232,
+     43.012
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-16",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.852,
+    "longitude": -94.344
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.344,
+     38.852
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-16",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.952,
+    "longitude": -92.334
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -92.334,
+     38.952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-16",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.296,
+    "longitude": -72.575
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.575,
+     41.296
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-17",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 35.95,
+    "longitude": -83.922
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.922,
+     35.95
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-17",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 36.147,
+    "longitude": -79.141
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.141,
+     36.147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-17",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.597,
+    "longitude": -111.957
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.957,
+     40.597
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-17",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 45.905,
+    "longitude": -66.58
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -66.58,
+     45.905
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-18",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 44.952,
+    "longitude": -89.621
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.621,
+     44.952
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-19",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.167,
+    "longitude": -93.26
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.26,
+     37.167
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-19",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.1,
+    "longitude": -80.114
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.114,
+     42.1
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-19",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.118,
+    "longitude": -91.757
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.757,
+     42.118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-19",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.35,
+    "longitude": -82.98
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.98,
+     42.35
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-20",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 32.589,
+    "longitude": -96.309
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.309,
+     32.589
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-20",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 38.71,
+    "longitude": -77.523
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.523,
+     38.71
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-20",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.174,
+    "longitude": -72.338
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.338,
+     43.174
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-20",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 44.112,
+    "longitude": -89.19
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.19,
+     44.112
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-21",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.727,
+    "longitude": -89.217
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -89.217,
+     37.727
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-21",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 39.397,
+    "longitude": -77.409
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.409,
+     39.397
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-22",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.383,
+    "longitude": -88.068
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.068,
+     42.383
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-22",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.175,
+    "longitude": -72.338
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.338,
+     43.175
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-23",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 34.804,
+    "longitude": -84.439
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.439,
+     34.804
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-23",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 34.824,
+    "longitude": -84.446
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.446,
+     34.824
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-23",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 44.809,
+    "longitude": -91.269
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -91.269,
+     44.809
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-24",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 30.048,
+    "longitude": -94.336
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.336,
+     30.048
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-24",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 34.186,
+    "longitude": -101.718
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.718,
+     34.186
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-24",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.14,
+    "longitude": -96.244
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.244,
+     41.14
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-24",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.34,
+    "longitude": -96.144
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.144,
+     41.34
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-24",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.437,
+    "longitude": -88.193
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.193,
+     43.437
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 30.048,
+    "longitude": -94.336
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.336,
+     30.048
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 37.551,
+    "longitude": -90.214
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.214,
+     37.551
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.709,
+    "longitude": -73.562
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.562,
+     40.709
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.344,
+    "longitude": -83.126
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.126,
+     41.344
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 42.56,
+    "longitude": -90.776
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.776,
+     42.56
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.422,
+    "longitude": -88.368
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.368,
+     43.422
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.431,
+    "longitude": -88.169
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.169,
+     43.431
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.612,
+    "longitude": -71.793
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -71.793,
+     43.612
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.7,
+    "longitude": -79.4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.4,
+     43.7
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-25",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.703,
+    "longitude": -79.396
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.396,
+     43.703
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-26",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 44.012,
+    "longitude": -79.932
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.932,
+     44.012
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-26",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 47.818,
+    "longitude": -110.013
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -110.013,
+     47.818
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-27",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 40.127,
+    "longitude": -82.932
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.932,
+     40.127
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-27",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.902,
+    "longitude": -79.431
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.431,
+     43.902
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-28",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 44.975,
+    "longitude": -93.354
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.354,
+     44.975
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-29",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 35.951,
+    "longitude": -83.921
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.921,
+     35.951
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-30",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 41.795,
+    "longitude": -72.677
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.677,
+     41.795
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-05-30",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 43.827,
+    "longitude": -79.172
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.172,
+     43.827
+    ]
+   }
+  }
+ ]
+}

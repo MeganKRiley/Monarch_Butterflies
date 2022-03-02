@@ -1,0 +1,124 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-02",
+    "species": "Monarch PEAK Migration",
+    "number": 2,
+    "latitude": 20.59,
+    "longitude": -100.4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.4,
+     20.59
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-02",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 20.6,
+    "longitude": -100.38
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.38,
+     20.6
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-02",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 28.529,
+    "longitude": -96.679
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.679,
+     28.529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-07",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 28.529,
+    "longitude": -96.679
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.679,
+     28.529
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-07",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 29.654,
+    "longitude": -99.775
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.775,
+     29.654
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-08",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 20.517,
+    "longitude": -99.867
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.867,
+     20.517
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2006-11-11",
+    "species": "Monarch PEAK Migration",
+    "number": 1,
+    "latitude": 20.517,
+    "longitude": -99.867
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.867,
+     20.517
+    ]
+   }
+  }
+ ]
+}

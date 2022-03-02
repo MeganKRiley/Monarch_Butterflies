@@ -1,0 +1,1518 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-01",
+    "species": "Monarch Larva Sighted",
+    "number": 5,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-01",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.787,
+    "longitude": -94.316
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.316,
+     32.787
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-01",
+    "species": "Monarch Larva Sighted",
+    "number": 8,
+    "latitude": 33.514,
+    "longitude": -82.516
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.516,
+     33.514
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 27.948,
+    "longitude": -82.458
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.458,
+     27.948
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.03,
+    "longitude": -84.355
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.355,
+     32.03
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.237,
+    "longitude": -80.887
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.887,
+     32.237
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.723,
+    "longitude": -117.168
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.168,
+     32.723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 36.149,
+    "longitude": -95.976
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.976,
+     36.149
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-02",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 39.147,
+    "longitude": -75.481
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.481,
+     39.147
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-03",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.56,
+    "longitude": -95.278
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.278,
+     29.56
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-03",
+    "species": "Monarch Larva Sighted",
+    "number": 160,
+    "latitude": 29.692,
+    "longitude": -95.201
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.201,
+     29.692
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-03",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.03,
+    "longitude": -84.355
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.355,
+     32.03
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-03",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 35.988,
+    "longitude": -94.089
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -94.089,
+     35.988
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-05",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 33.094,
+    "longitude": -96.632
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.632,
+     33.094
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-05",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 37.136,
+    "longitude": -76.361
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.361,
+     37.136
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-06",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 25.652,
+    "longitude": -100.361
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.361,
+     25.652
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-06",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 29.746,
+    "longitude": -98.643
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.643,
+     29.746
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-06",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-06",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-06",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 33.324,
+    "longitude": -111.867
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -111.867,
+     33.324
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-07",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.469,
+    "longitude": -98.528
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.528,
+     29.469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-07",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.634,
+    "longitude": -98.742
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.742,
+     29.634
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-07",
+    "species": "Monarch Larva Sighted",
+    "number": 12,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-08",
+    "species": "Monarch Larva Sighted",
+    "number": 4,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-09",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 27.783,
+    "longitude": -101.133
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.133,
+     27.783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-09",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.928,
+    "longitude": -96.62
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.62,
+     32.928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-10",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 28.513,
+    "longitude": -100.527
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.527,
+     28.513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-10",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-10",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 33.088,
+    "longitude": -79.461
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.461,
+     33.088
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-11",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.034,
+    "longitude": -99.092
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.092,
+     30.034
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-11",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.047,
+    "longitude": -95.214
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.214,
+     30.047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-11",
+    "species": "Monarch Larva Sighted",
+    "number": 8,
+    "latitude": 36.032,
+    "longitude": -79.593
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.593,
+     36.032
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-11",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 37.779,
+    "longitude": -75.634
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -75.634,
+     37.779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-12",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.004,
+    "longitude": -95.173
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.173,
+     30.004
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-12",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-13",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.836,
+    "longitude": -95.735
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.735,
+     29.836
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-13",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-13",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 38.91,
+    "longitude": -77.018
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.018,
+     38.91
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-13",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 38.98,
+    "longitude": -77.38
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -77.38,
+     38.98
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-14",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 36.846,
+    "longitude": -76.092
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.092,
+     36.846
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-14",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 37.058,
+    "longitude": -76.464
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.464,
+     37.058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-15",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.16,
+    "longitude": -95.185
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.185,
+     30.16
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-15",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-15",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 36.811,
+    "longitude": -76.37
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.37,
+     36.811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 12,
+    "latitude": 26.094,
+    "longitude": -97.671
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.671,
+     26.094
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 60,
+    "latitude": 27.401,
+    "longitude": -82.467
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.467,
+     27.401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.501,
+    "longitude": -95.192
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.192,
+     29.501
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.047,
+    "longitude": -95.214
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.214,
+     30.047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.613,
+    "longitude": -96.32
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.32,
+     30.613
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.783,
+    "longitude": -84.016
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.016,
+     30.783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-16",
+    "species": "Monarch Larva Sighted",
+    "number": 11,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-17",
+    "species": "Monarch Larva Sighted",
+    "number": 4,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-17",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-17",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.928,
+    "longitude": -96.62
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.62,
+     32.928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-18",
+    "species": "Monarch Larva Sighted",
+    "number": 2,
+    "latitude": 29.996,
+    "longitude": -95.68
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.68,
+     29.996
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-18",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 33.094,
+    "longitude": -96.632
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.632,
+     33.094
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-18",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 37.058,
+    "longitude": -76.464
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.464,
+     37.058
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-19",
+    "species": "Monarch Larva Sighted",
+    "number": 51,
+    "latitude": 27.401,
+    "longitude": -82.467
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.467,
+     27.401
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-19",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-19",
+    "species": "Monarch Larva Sighted",
+    "number": 14,
+    "latitude": 32.928,
+    "longitude": -96.62
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.62,
+     32.928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-20",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.821,
+    "longitude": -98.751
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.751,
+     29.821
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-20",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-20",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.928,
+    "longitude": -96.62
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.62,
+     32.928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-20",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 33.771,
+    "longitude": -84.334
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.334,
+     33.771
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-21",
+    "species": "Monarch Larva Sighted",
+    "number": 5,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-21",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-21",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 32.723,
+    "longitude": -117.168
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -117.168,
+     32.723
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-21",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 36.07,
+    "longitude": -79.766
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.766,
+     36.07
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-22",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.061,
+    "longitude": -95.384
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.384,
+     30.061
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-22",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-22",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 34.003,
+    "longitude": -118.028
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -118.028,
+     34.003
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-23",
+    "species": "Monarch Larva Sighted",
+    "number": 14,
+    "latitude": 30.783,
+    "longitude": -84.016
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.016,
+     30.783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-23",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.131,
+    "longitude": -97.855
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.855,
+     32.131
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-23",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 34.413,
+    "longitude": -119.861
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -119.861,
+     34.413
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-25",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.783,
+    "longitude": -84.016
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.016,
+     30.783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-26",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.042,
+    "longitude": -95.467
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.467,
+     29.042
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-26",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.047,
+    "longitude": -95.214
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.214,
+     30.047
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-27",
+    "species": "Monarch Larva Sighted",
+    "number": 3,
+    "latitude": 29.469,
+    "longitude": -98.528
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.528,
+     29.469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-27",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-27",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.957,
+    "longitude": -90.078
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -90.078,
+     29.957
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-28",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.928,
+    "longitude": -96.62
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.62,
+     32.928
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-28",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 36.811,
+    "longitude": -76.37
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -76.37,
+     36.811
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-29",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.469,
+    "longitude": -98.528
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -98.528,
+     29.469
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-29",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 29.757,
+    "longitude": -95.365
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.365,
+     29.757
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-29",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 30.23,
+    "longitude": -97.714
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.714,
+     30.23
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-30",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 28.513,
+    "longitude": -100.527
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.527,
+     28.513
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-30",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 28.827,
+    "longitude": -82.256
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -82.256,
+     28.827
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-30",
+    "species": "Monarch Larva Sighted",
+    "number": 1,
+    "latitude": 32.779,
+    "longitude": -79.938
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.938,
+     32.779
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2013-10-31",
+    "species": "Monarch Larva Sighted",
+    "number": 2,
+    "latitude": 30.783,
+    "longitude": -84.016
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.016,
+     30.783
+    ]
+   }
+  }
+ ]
+}

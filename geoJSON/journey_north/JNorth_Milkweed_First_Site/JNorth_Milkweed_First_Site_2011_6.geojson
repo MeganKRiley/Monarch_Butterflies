@@ -1,0 +1,141 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-01",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.903,
+    "longitude": -69.98
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -69.98,
+     43.903
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-01",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.357,
+    "longitude": -83.494
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -83.494,
+     44.357
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-05",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 48.239,
+    "longitude": -96.496
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.496,
+     48.239
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-07",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.317,
+    "longitude": -80.65
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.65,
+     44.317
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-07",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 49.884,
+    "longitude": -97.141
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -97.141,
+     49.884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-08",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 45.8,
+    "longitude": -78.7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -78.7,
+     45.8
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-10",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.783,
+    "longitude": -79.25
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.25,
+     43.783
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2011-06-10",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.833,
+    "longitude": -72.634
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -72.634,
+     43.833
+    ]
+   }
+  }
+ ]
+}

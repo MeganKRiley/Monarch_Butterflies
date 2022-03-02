@@ -1,0 +1,345 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-01",
+    "species": "Monarch Fall Roost",
+    "number": 500,
+    "latitude": 25.639,
+    "longitude": -100.09
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.09,
+     25.639
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-01",
+    "species": "Monarch Fall Roost",
+    "number": 192,
+    "latitude": 25.766,
+    "longitude": -100.428
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.428,
+     25.766
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-02",
+    "species": "Monarch Fall Roost",
+    "number": 500,
+    "latitude": 25.769,
+    "longitude": -100.429
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.429,
+     25.769
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-04",
+    "species": "Monarch Fall Roost",
+    "number": 2000,
+    "latitude": 23.737,
+    "longitude": -99.141
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.141,
+     23.737
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-05",
+    "species": "Monarch Fall Roost",
+    "number": 800,
+    "latitude": 25.455,
+    "longitude": -100.851
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.851,
+     25.455
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-07",
+    "species": "Monarch Fall Roost",
+    "number": 1,
+    "latitude": 19.62,
+    "longitude": -100.284
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.284,
+     19.62
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-07",
+    "species": "Monarch Fall Roost",
+    "number": 100,
+    "latitude": 32.479,
+    "longitude": -80.335
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.335,
+     32.479
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-08",
+    "species": "Monarch Fall Roost",
+    "number": 50,
+    "latitude": 36.626,
+    "longitude": -121.931
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.931,
+     36.626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-09",
+    "species": "Monarch Fall Roost",
+    "number": 43,
+    "latitude": 36.626,
+    "longitude": -121.931
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.931,
+     36.626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-10",
+    "species": "Monarch Fall Roost",
+    "number": 35,
+    "latitude": 36.626,
+    "longitude": -121.931
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.931,
+     36.626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-11",
+    "species": "Monarch Fall Roost",
+    "number": 150,
+    "latitude": 20.915,
+    "longitude": -100.736
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.736,
+     20.915
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-11",
+    "species": "Monarch Fall Roost",
+    "number": 200,
+    "latitude": 21.296,
+    "longitude": -100.426
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.426,
+     21.296
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-11",
+    "species": "Monarch Fall Roost",
+    "number": 600,
+    "latitude": 21.3,
+    "longitude": -100.428
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.428,
+     21.3
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-16",
+    "species": "Monarch Fall Roost",
+    "number": 105,
+    "latitude": 36.626,
+    "longitude": -121.931
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.931,
+     36.626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-17",
+    "species": "Monarch Fall Roost",
+    "number": 700,
+    "latitude": 36.626,
+    "longitude": -121.931
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.931,
+     36.626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-19",
+    "species": "Monarch Fall Roost",
+    "number": 10000,
+    "latitude": 19.18,
+    "longitude": -99.964
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -99.964,
+     19.18
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-19",
+    "species": "Monarch Fall Roost",
+    "number": 250,
+    "latitude": 36.626,
+    "longitude": -121.931
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -121.931,
+     36.626
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-20",
+    "species": "Monarch Fall Roost",
+    "number": 300,
+    "latitude": 28.614,
+    "longitude": -96.212
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -96.212,
+     28.614
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-21",
+    "species": "Monarch Fall Roost",
+    "number": 200,
+    "latitude": 28.835,
+    "longitude": -95.665
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.665,
+     28.835
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2018-11-22",
+    "species": "Monarch Fall Roost",
+    "number": 60,
+    "latitude": 28.995,
+    "longitude": -95.237
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -95.237,
+     28.995
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,138 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/23/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MN",
+    "decimalLatitude": 45.11941,
+    "decimalLongitude": -93.4024532,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4024532,
+     45.11941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/25/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "MN",
+    "decimalLatitude": 45.11941,
+    "decimalLongitude": -93.4024532,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -93.4024532,
+     45.11941
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/26/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "PA",
+    "decimalLatitude": 40.42118,
+    "decimalLongitude": -79.7881024,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7881024,
+     40.42118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/27/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "PA",
+    "decimalLatitude": 40.42118,
+    "decimalLongitude": -79.7881024,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.7881024,
+     40.42118
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/27/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "PA",
+    "decimalLatitude": 40.44062,
+    "decimalLongitude": -79.9958864,
+    "number": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9958864,
+     40.44062
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/30/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "PA",
+    "decimalLatitude": 40.44062,
+    "decimalLongitude": -79.9958864,
+    "number": 8
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9958864,
+     40.44062
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "eventDate": "7/31/1997",
+    "species": "Monarch Tagged",
+    "country": "US",
+    "stateProvince": "PA",
+    "decimalLatitude": 40.44062,
+    "decimalLongitude": -79.9958864,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -79.9958864,
+     40.44062
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,113 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2007,
+    "species": "Monarch Tag Recovered",
+    "Location": "Canada Del Salto",
+    "latitude": 21.398,
+    "longitude": -101.455,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -101.455,
+     21.398
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2007,
+    "species": "Monarch Tag Recovered",
+    "Location": "Cerro Pelon",
+    "latitude": 19.025,
+    "longitude": -100.142,
+    "number": 125
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.142,
+     19.025
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2007,
+    "species": "Monarch Tag Recovered",
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": -115.7257,
+    "number": 562
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7257,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2007,
+    "species": "Monarch Tag Recovered",
+    "Location": "Las Palomas",
+    "latitude": 20.921944444444446,
+    "longitude": -100.74027777777778,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.74027777777778,
+     20.921944444444446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2007,
+    "species": "Monarch Tag Recovered",
+    "Location": "Piedra Herrada",
+    "latitude": 21.216666666666665,
+    "longitude": -103.03133333333334,
+    "number": 7
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.03133333333334,
+     21.216666666666665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2007,
+    "species": "Monarch Tag Recovered",
+    "Location": "Sierra Chincua",
+    "latitude": 20.11766666666667,
+    "longitude": -100.46366666666667,
+    "number": 15
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.46366666666667,
+     20.11766666666667
+    ]
+   }
+  }
+ ]
+}

@@ -1,0 +1,22 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2016-08-10",
+    "species": "Milkweed Sighted",
+    "number": 1,
+    "latitude": 20.66,
+    "longitude": -103.35
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.35,
+     20.66
+    ]
+   }
+  }
+ ]
+}

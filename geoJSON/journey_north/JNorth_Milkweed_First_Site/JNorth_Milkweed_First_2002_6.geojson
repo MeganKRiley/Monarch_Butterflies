@@ -1,0 +1,124 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-02",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 42.884,
+    "longitude": -84.351
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.351,
+     42.884
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-03",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.33,
+    "longitude": -80.15
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -80.15,
+     43.33
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-04",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 44.25,
+    "longitude": -81.14
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -81.14,
+     44.25
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-05",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.635,
+    "longitude": -84.792
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -84.792,
+     43.635
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-05",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 47.113,
+    "longitude": -88.576
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.576,
+     47.113
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-08",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 43.719,
+    "longitude": -73.694
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -73.694,
+     43.719
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "sighting_date": "2002-06-10",
+    "species": "Milkweed (FIRST sighted)",
+    "number": 1,
+    "latitude": 45.89,
+    "longitude": -88.039
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -88.039,
+     45.89
+    ]
+   }
+  }
+ ]
+}

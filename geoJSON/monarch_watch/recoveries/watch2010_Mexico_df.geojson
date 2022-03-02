@@ -1,0 +1,131 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "Cerro Pelon",
+    "latitude": 19.025,
+    "longitude": -100.142,
+    "number": 305
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.142,
+     19.025
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "Chivati-Huacal",
+    "latitude": 19.6064,
+    "longitude": -100.2417,
+    "number": 2
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.2417,
+     19.6064
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "El Rosario",
+    "latitude": 30.0595,
+    "longitude": -115.7257,
+    "number": 522
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -115.7257,
+     30.0595
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "Las Palomas",
+    "latitude": 20.921944444444446,
+    "longitude": -100.74027777777778,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.74027777777778,
+     20.921944444444446
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "Piedra Herrada",
+    "latitude": 21.216666666666665,
+    "longitude": -103.03133333333334,
+    "number": 4
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -103.03133333333334,
+     21.216666666666665
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "San Francisco Oxtotilpan",
+    "latitude": 19.2815,
+    "longitude": -100.50316666666667,
+    "number": 1
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.50316666666667,
+     19.2815
+    ]
+   }
+  },
+  {
+   "type": "Feature",
+   "properties": {
+    "Report Season": 2010,
+    "species": "Monarch Tag Recovered",
+    "Location": "Sierra Chincua",
+    "latitude": 20.11766666666667,
+    "longitude": -100.46366666666667,
+    "number": 43
+   },
+   "geometry": {
+    "type": "Point",
+    "coordinates": [
+     -100.46366666666667,
+     20.11766666666667
+    ]
+   }
+  }
+ ]
+}
