@@ -75,8 +75,8 @@
 * Source for data on recoveries of tagged monarchs: https://monarchwatch.org/tagging/index.html#recoveries<br>
 * Tag recoveries from central Mexico: https://docs.google.com/spreadsheets/d/1UdJfooBJrm0Y1zlpwIhGz7ToZfP9h8OeucJbXrWwZEY/edit?usp=sharing<br>
 * Tag recoveries from the U.S., Canada, & northen Mexico (2021 season): https://docs.google.com/spreadsheets/d/12h0oQrTA9Zbm4nEkUFJJzWk5_FN2se4VAzI0Ww5d1E8/edit#gid=1710298744<br>
- *Tag recoveries from the U.S., Canada, & northen Mexico (2020 season): https://docs.google.com/spreadsheets/d/1nCK0z3Ab9QOly9sWN9AbItGYBs576CNXpyKs5puLdjY/edit#gid=1710298744<br>
- *Tag recoveries from the U.S., Canada, & northen Mexico (2019 season): https://docs.google.com/spreadsheets/d/1GKkZIEXjI5BjOOvNo40hsCJoWNJq2pucj01GpQVFynM/edit#gid=1710298744<br>
+* Tag recoveries from the U.S., Canada, & northen Mexico (2020 season): https://docs.google.com/spreadsheets/d/1nCK0z3Ab9QOly9sWN9AbItGYBs576CNXpyKs5puLdjY/edit#gid=1710298744<br>
+* Tag recoveries from the U.S., Canada, & northen Mexico (2019 season): https://docs.google.com/spreadsheets/d/1GKkZIEXjI5BjOOvNo40hsCJoWNJq2pucj01GpQVFynM/edit#gid=1710298744<br>
 * Tag recoveries from the U.S., Canada, & northen Mexico (2018 season): https://docs.google.com/spreadsheets/d/1tRDhq0zfOhlErRK7oeqpb-AHFsARuN15JwdT9qWvlHc/edit#gid=992068986<br>
 * Tag recoveries from the U.S. (2017 season): https://docs.google.com/spreadsheets/d/1ySyeKlpQTTwD1pPEO0XmouL7uudckaxaZnBBhilukCA/edit#gid=1287716066<br>
 * MWatch_occurrences_1996_2000: https://bison.usgs.gov/ipt/resource?r=monarchwatch<br>
