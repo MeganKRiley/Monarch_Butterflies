@@ -64,6 +64,48 @@
     - Mapped and designed layers for data using JavaScript, Mapbox, Leaflet, and tested the performance and usability of the geJSON files in Mapbox map/Leaflet layers
 6. Worked with a Leaflet markercluster plug-in to improve the performance and usability of the geJSON files in Mapbox map/Leaflet layers
 
+### Machine Learning
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In reviewing all the data provided by JourneyNorth going back to 1996, we graphed the data by year and discovered a massive spike in engagement in August 2010. From 2000-2009, there were between 3 and 167 sightings per year. In 2010, the number of observations spike to 3,287 and then grow from there. In February 2010, JourneyNorth created a Facebook page, and it is our speculation that social media along with broader discussions about climate change, were primary factors in the explosion of the dataset. The numbers level out in 2016 and fluctuate around 14,000 observations, +/-500. This is what a linear regression (fitted with PolynomialFeatures) line looks like for all the data, dating back to 1996:
+![image](https://user-images.githubusercontent.com/24308495/156938993-0fd4e143-6f64-4164-9cd4-910215173970.png)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To take a better look at the data with machine learning, we created a system that analyzes butterfly observations within a square grid using user inputs for North latitude, South latitude, East longitude, and West longitude. We then took the Northern, Southern, Eastern, and Western points of major regions and used those to graph regression line for butterfly observations over time. (Note: Since the box we created is not as precise as the municipal or state boundaries, the data is an approximation that encompasses some additional area nearby the defined region.) We made a better fit to the regression line by using PolynomialFeatures, so the line conformed closer to individual data points instead of being a straight line. The regions we analyzed were Minneapolis, New York City, Oklahoma City, and Rhode Island:
+    * Minneapolis:
+    2016-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156939589-d8fd6971-8ddb-443e-9baa-30ee224023da.png)
+    2010-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156939643-2425712b-bb1f-4ad3-8659-a44eccc2dd4a.png)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We studied Minneapolis because of it is a major metro area with a signficant amount of green space and has a reputation for ecologically-mindful population. Of the regions we studied, Minneapolis has the smallest population.
+    * New York City
+    2016-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156940188-28fa9003-e143-4877-a8c1-683c11ac8706.png)
+    2010-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156940303-2070a02e-abcc-4a8d-b4d2-e94b557def91.png)
+    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We studied New York City because it has a high-population density over a large area of urban land.
+    * Rhode Island:
+    2016-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156940478-652b75ba-82d3-4ccc-95b4-db9206f245c3.png)
+    2010-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156940531-70318095-2410-43f5-8a5a-d557b03685a7.png)
+    We studied Rhode Island because it is a region that is four times the size of New York but only 1/8th the population; Rhode Island's population density is significantly less than New York. We wanted to contrast observations in New York to a nearby region that has a similar butterfly migratory path running through it, but has a larger space and fewer people.
+    * Oklahoma City
+    2016-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156941018-ca83a9c8-4f08-4e4e-a405-bad570b21496.png)
+    2010-2021
+    ![image](https://user-images.githubusercontent.com/24308495/156941062-916fee87-46c0-4512-a349-93707ee00045.png)
+    We studied Oklahoma City because there is a convergence of butterfly migratory paths that run through it. Three migratory paths journeying South and two migratory groups journeying North run through or near it. We were also interested because, based on correlations with political trends, the region may have a less-positive view of ecological protection than Minneapolis.
+    
+### *WE NEED SOMETHING HERE THAT COMPARES REGRESSION TRENDS*
+    
+The next steps for machine learning would be to analyze whether there are correlations between butterfly observations and the following features:
+* Regional Population
+* Population Density
+* Square Miles of Region
+* Square Miles of Green Space
+* Green Space Density
+* Population Attitude for Ecology (based on polling)
+* Butterfly Migratory Density (based on mapped migratory patterns)
+
+In addition to aggregate Butterfly OBservations as the target variable, it may also be worthwhile to anaylze a second target variable: Butterfly Observation Density. This variable would analyze the number of observations over a period with a squared distance measurements.
 
 ### Software
 * Python 3.6.1 / Visual Studio Code 1.38.1 / Mapbox / Leaflet / Leaflet markercluster plug-in
