@@ -74,14 +74,14 @@
     ![image](https://user-images.githubusercontent.com/24308495/156939589-d8fd6971-8ddb-443e-9baa-30ee224023da.png)<br>
     2010-2021<br>
     ![image](https://user-images.githubusercontent.com/24308495/156939643-2425712b-bb1f-4ad3-8659-a44eccc2dd4a.png)<br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We studied Minneapolis because of it is a major metro area with a signficant amount of green space and has a reputation for ecologically-mindful population. Of the regions we studied, Minneapolis has the smallest population.<br>
+    We studied Minneapolis because of it is a major metro area with a signficant amount of green space and has a reputation for ecologically-mindful population. Of the regions we studied, Minneapolis has the smallest population.<br>
     <br>
 - New York City <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940188-28fa9003-e143-4877-a8c1-683c11ac8706.png) <br>
     2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940303-2070a02e-abcc-4a8d-b4d2-e94b557def91.png) <br>
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We studied New York City because it has a high-population density over a large area of urban land. <br>
+    We studied New York City because it has a high-population density over a large area of urban land. <br>
     <br>
 - Rhode Island: <br>
     2016-2021 <br>
@@ -97,7 +97,7 @@
     ![image](https://user-images.githubusercontent.com/24308495/156941062-916fee87-46c0-4512-a349-93707ee00045.png) <br>
     We studied Oklahoma City because there is a convergence of butterfly migratory paths that run through it. Three migratory paths journeying South and two migratory groups journeying North run through or near it. We were also interested because, based on correlations with political trends, the region may have a less-positive view of ecological protection than Minneapolis. <br>
 <br>
-#### *WE NEED SOMETHING HERE THAT COMPARES REGRESSION TRENDS*
+#### WE NEED SOMETHING HERE THAT COMPARES REGRESSION TRENDS
 <br>
 The next steps for machine learning would be to analyze whether there are correlations between butterfly observations and the following features: <br>
 * Regional Population <br>
