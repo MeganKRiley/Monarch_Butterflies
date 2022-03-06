@@ -69,28 +69,28 @@
 ![image](https://user-images.githubusercontent.com/24308495/156938993-0fd4e143-6f64-4164-9cd4-910215173970.png)<br>
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To take a better look at the data with machine learning, we created a system that analyzes butterfly observations within a square grid using user inputs for North latitude, South latitude, East longitude, and West longitude. We then took the Northern, Southern, Eastern, and Western points of major regions and used those to graph regression line for butterfly observations over time. (Note: Since the box we created is not as precise as the municipal or state boundaries, the data is an approximation that encompasses some additional area nearby the defined region.) We made a better fit to the regression line by using PolynomialFeatures, so the line conformed closer to individual data points instead of being a straight line. The regions we analyzed were Minneapolis, New York City, Oklahoma City, and Rhode Island: <br>
-    - Minneapolis:<br>
+- Minneapolis:<br>
     2016-2021<br>
     ![image](https://user-images.githubusercontent.com/24308495/156939589-d8fd6971-8ddb-443e-9baa-30ee224023da.png)<br>
     2010-2021<br>
     ![image](https://user-images.githubusercontent.com/24308495/156939643-2425712b-bb1f-4ad3-8659-a44eccc2dd4a.png)<br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We studied Minneapolis because of it is a major metro area with a signficant amount of green space and has a reputation for ecologically-mindful population. Of the regions we studied, Minneapolis has the smallest population.<br>
     <br>
-    - New York City <br>
+- New York City <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940188-28fa9003-e143-4877-a8c1-683c11ac8706.png) <br>
     2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940303-2070a02e-abcc-4a8d-b4d2-e94b557def91.png) <br>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;We studied New York City because it has a high-population density over a large area of urban land. <br>
     <br>
-    - Rhode Island: <br>
+- Rhode Island: <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940478-652b75ba-82d3-4ccc-95b4-db9206f245c3.png) <br>
     2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940531-70318095-2410-43f5-8a5a-d557b03685a7.png) <br>
     We studied Rhode Island because it is a region that is four times the size of New York but only 1/8th the population; Rhode Island's population density is significantly less than New York. We wanted to contrast observations in New York to a nearby region that has a similar butterfly migratory path running through it, but has a larger space and fewer people. <br>
     <br>
-    - Oklahoma City <br>
+- Oklahoma City <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156941018-ca83a9c8-4f08-4e4e-a405-bad570b21496.png) <br>
     2010-2021 <br>
@@ -100,12 +100,12 @@
 #### *WE NEED SOMETHING HERE THAT COMPARES REGRESSION TRENDS*
 <br>
 The next steps for machine learning would be to analyze whether there are correlations between butterfly observations and the following features: <br>
-* Regional Population
-* Population Density
-* Square Miles of Region
-* Square Miles of Green Space
-* Green Space Density
-* Population Attitude for Ecology (based on polling)
+* Regional Population <br>
+* Population Density <br>
+* Square Miles of Region <br>
+* Square Miles of Green Space <br>
+* Green Space Density <br>
+* Population Attitude for Ecology (based on polling) <br>
 * Butterfly Migratory Density (based on mapped migratory patterns) <br>
 <br>
 In addition to aggregate Butterfly OBservations as the target variable, it may also be worthwhile to anaylze a second target variable: Butterfly Observation Density. This variable would analyze the number of observations over a period with a squared distance measurements.
