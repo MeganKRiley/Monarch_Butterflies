@@ -97,7 +97,9 @@
     ![image](https://user-images.githubusercontent.com/24308495/156941062-916fee87-46c0-4512-a349-93707ee00045.png) <br>
     We studied Oklahoma City because there is a convergence of butterfly migratory paths that run through it. Three migratory paths journeying South and two migratory groups journeying North run through or near it. We were also interested because, based on correlations with political trends, the region may have a less-positive view of ecological protection than Minneapolis. <br>
 <br>
+
 #### WE NEED SOMETHING HERE THAT COMPARES REGRESSION TRENDS
+
 <br>
 The next steps for machine learning would be to analyze whether there are correlations between butterfly observations and the following features: <br>
 * Regional Population <br>
