@@ -72,8 +72,12 @@
 - Minneapolis:<br>
     2016-2021<br>
     ![image](https://user-images.githubusercontent.com/24308495/156939589-d8fd6971-8ddb-443e-9baa-30ee224023da.png)<br>
-    2010-2021<br>
+    Note: 736000-737400 reflects the 2016-2021 date range <br>
+    <br>
+    2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156939643-2425712b-bb1f-4ad3-8659-a44eccc2dd4a.png)<br>
+    Note: 734000-737500 reflects the 2016-2021 date range <br>
+    <br>
     We studied Minneapolis because of it is a major metro area with a signficant amount of green space and has a reputation for ecologically-mindful population. Of the regions we studied, Minneapolis has the smallest population.<br>
     <br>
 - New York City <br>
