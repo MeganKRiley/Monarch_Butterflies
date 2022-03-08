@@ -97,10 +97,10 @@
     ![image](https://user-images.githubusercontent.com/24308495/156941062-916fee87-46c0-4512-a349-93707ee00045.png) <br>
     We studied Oklahoma City because there is a convergence of butterfly migratory paths that run through it. Three migratory paths journeying South and two migratory groups journeying North run through or near it. We were also interested because, based on correlations with political trends, the region may have a less-positive view of ecological protection than Minneapolis. <br>
 <br>
+Regression was chosen on these regions to see the change in butterfly observations over time. Prior to 2010, there were very few butterfly observations for these individual regions. From 2010 to 2015, there was a steady incline in observations. The level of observations for the entire dataset seems to plateau between 2016 and 2021; these are the years in which we thought it was most valuable to compare regional observations. In reviewing the above charted regions, there's no clear trends that surface which apply to each region other than a potential slight decline. <br>
 
-#### WE NEED SOMETHING HERE THAT COMPARES REGRESSION TRENDS
+### Next Steps for ML
 
-<br>
 The next steps for machine learning would be to analyze whether there are correlations between butterfly observations and the following features: <br>
 * Regional Population <br>
 * Population Density <br>
@@ -110,7 +110,9 @@ The next steps for machine learning would be to analyze whether there are correl
 * Population Attitude for Ecology (based on polling) <br>
 * Butterfly Migratory Density (based on mapped migratory patterns) <br>
 <br>
-In addition to aggregate Butterfly OBservations as the target variable, it may also be worthwhile to anaylze a second target variable: Butterfly Observation Density. This variable would analyze the number of observations over a period with a squared distance measurements.
+In addition to aggregate Butterfly Observations as the target variable, it may also be worthwhile to anaylze a second target variable: Butterfly Observation Density. This variable would analyze the number of observations over a period with a squared distance measurements. <br>
+<br>
+The above regression analysis points in a few directions for how the above features may play out over a larger logistic regression. For example, based on New York, we would expect a low butterfly count, despite a high population, for dense urban regions. The Minneapolis suggests that having a large amount of green space and a reputedly eco-friendly population lends itself to a higher count in butterfly observations. Rhode Island suggests that having large unpopulated areas and sprawling suburbs may not necessarily increase the butterfly count. Finally, Oklahoma City suggests that a primary variable in butterfly observations may be how many butterflies pass through the area. No correlation can be drawn from the above information, however the above analysis serves as a reasonable sign post to guide us on our path.
 
 ### Software
 * Python 3.6.1 / Visual Studio Code 1.38.1 / Mapbox / Leaflet / Leaflet markercluster plug-in
