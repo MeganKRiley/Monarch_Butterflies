@@ -159,3 +159,5 @@ The above regression analysis points in a few directions for how the above featu
 * leaflet documentation on methods using the map objecct and tile layers: https://leafletjs.com/reference-1.6.0.html#map-example<br>
 * creative commons: https://creativecommons.org/<br>
 * bindPopup() method: https://leafletjs.com/reference-1.6.0.html#popup<br>
+
+For more information on our project check out https://github.com/MeganKRiley/Analytics_Group_Repo
