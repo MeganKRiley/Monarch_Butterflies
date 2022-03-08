@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-Megan Riley / Sue Mottet / Josh Kohman / Christian Shada<br><br>
+Megan Riley . Sue Mottet . Josh Kohman . Christian Shada<br><br>
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -46,7 +46,7 @@ Megan Riley / Sue Mottet / Josh Kohman / Christian Shada<br><br>
       </div>
     </div>
   </header>
-  <h7 style="color: rgb(41, 27, 10);"><center>Data Sets:<br><a href="https://monarchwatch.org/tagging/index.html#recoveries">www.monarchwatch.org, <br><a href="https://bison.usgs.gov/ipt/resource?r=monarchwatch">USGS Monarch Watch,<br><a href="https://journeynorth.org/sightings/">Journey North</a>
+  <h7 style="color: rgb(41, 27, 10);"><center><a href="https://monarchwatch.org/tagging/index.html#recoveries">www.monarchwatch.org, <br><a href="https://bison.usgs.gov/ipt/resource?r=monarchwatch">USGS Monarch Watch,<br><a href="https://journeynorth.org/sightings/">Journey North</a>
   </a></center><br>
   <section class="my-0">
   <div class="container">
@@ -57,21 +57,21 @@ Megan Riley / Sue Mottet / Josh Kohman / Christian Shada<br><br>
   </div>
 </section>
   
-</div>
   </div>
   <div class="row">
     <div class="col-md-12">
       <div class="well">
         <h4 style="color: rgb(41, 27, 10);">Overview of Analysis:<br></h4>
-        <h7 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Data was located from different websites, scraped, and was cleaned through different data analysis tools to make it ready for our group to manipulate. Through this data, we would like to achieve the ability to predict future paths that Monarch butterflies will take as well as the number of Monarchs based on trends. Of course, unless, there is a murder in Mexico.<br><br></h7>
+        <h7 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Utilizing three primary datasets, we have been able to track monarch butterfly migrations through tagging and observation reports submitted by volunteers throughout Canada, The United States, and Mexico.  Because of the way that this data has been collected, we need to include a human-interest element to our results.  For example, in 2010, the number of observations spiked upward very drastically. Around this same time JourneyNorth – one of the groups collecting data created a Facebook page, and it is our speculation that the social media presence along with the broader discussions about climate change going on around this time, were primary factors in the explosion of the dataset.  Through this data, and the use of machine learning practices, we would like to achieve the ability to predict the number of monarch butterflies being observed each year – unless, of course, there is a murder in Mexico… <br><br></h7>
       </div>
+      <!--
       <div class="panel panel-primary">
         <div class="panel-heading">
           <h5 class="panel-title" style="color: rgb(41, 27, 10);">A Brief Education <br>
             <h6 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Every year, Monarch butterflies migrate from the norther part of the use to Mexico by means of any mode possible. They fly, ride on boats down river, or glide with a favorable wind. They overwinter down in Mexico, then spawn on their way back, however it takes two to three generations to get back north for another batch to make the trip back down.<br><br></h6>
         </div>
         <div id="sample-metadata" class="panel-body"></div>
-      </div>
+      </div> -->
     </div>
   </div>
 </div>
@@ -86,25 +86,31 @@ Megan Riley / Sue Mottet / Josh Kohman / Christian Shada<br><br>
         <div id="mapid2" class="map"></div>
       </div>
     </div>
-  
-  
+
+    
   <div>
-    <h4 style="color: rgb(41, 27, 10);">Results:<br></h4>
-    <h7 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem ipsum dolor sit, amet consectetur adipisicing elit. Error praesentium id quisquam rerum. Sapiente dolores eligendi voluptatum amet mollitia optio id omnis nemo voluptate sed, dignissimos quos sequi nulla repellat?<br><br></h7>
+    <h4 style="color: rgb(41, 27, 10);">Machine Learning:<br></h4>
+    <h7 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; We created a system that analyzed butterfly observations within a square grid using user inputs and then used the points of major regions to graph regression lines for butterfly observations over time.  We utilized PolynomialFeatures to make a better fit to the regression line, so that it conformed closer to the individual points. <br><br></h7>
     <div class="panel panel-primary">
     <div class="panel-heading">
-      <center><img src="adult_sighting_regress.png" alt="Monarch Butterfly Migration" style="width:400px;height:300px;">
-      <img src="milkweed_sighting_regress.png" alt="Monarch Butterfly Migration" style="width:400px;height:300px;"></center>
-
-    <h4 class="panel-title" style="color: rgb(41, 27, 10);">Summary: <br></h4>
-    <h7 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Lorem, ipsum dolor sit amet consectetur adipisicing elit. Tenetur commodi, et rerum sit ex distinctio nobis? Distinctio, rerum, doloribus labore, quos temporibus nostrum voluptatum nemo in dolore molestias quasi voluptas?<br><br></h6></h7>
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6">
+        <center><h5 style="color: rgb(41, 27, 10);">Minneapolis</h5></center>
+        <center><h7 style="color: rgb(41, 27, 10);">2016 - 2021</h7></center>              
+        <center><img src="Minneapolis2016to2021.png" alt="Monarch Butterfly Migration" style="width:400px;height:300px;"></center>
+        </div>
+        <div class="col-md-6">
+        <center><h5 style="color: rgb(41, 27, 10);">New York City</h5></center>  
+        <center><h7 style="color: rgb(41, 27, 10);">2016 - 2021</h7></center>      
+        <center><img src="NewYorkCity2016to2021.png" alt="Monarch Butterfly Migration" style="width:400px;height:300px;"></center>
+        </div>
+      </div>
+      <h4 class="panel-title" style="color: rgb(41, 27, 10);">Results Highlight:<br></h4>
+      <h7 style="color: rgb(41, 27, 10);">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; These two cities were chosen for analysis because they highlight a few different factors that we think may make a difference in the butterfly population.  We chose to look at New York City because of the high-population density over a large area of urban land.  Minneapolis has a much smaller population than New York City, but does offer an immense amount of green space and has a reputation for being home to a very ecologically-mindful population of people. Despite having so many more people available to observe butterflies, there are far fewer sightings in New York City than in Minneapolis, which can lead us to believe that densely populated urban areas have a negative impact on the butterfly population.<br><br></h6></h7>
+      </div>
+      <div id="sample-metadata" class="panel-body"></div>  
     </div>
-    <div id="sample-metadata" class="panel-body"></div>
-    </div>
-    </div>
-  </div>
-
-
   
   
   <!-- Leaflet JavaScript -->
