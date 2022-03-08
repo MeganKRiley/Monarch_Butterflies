@@ -83,22 +83,34 @@
 - New York City <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940188-28fa9003-e143-4877-a8c1-683c11ac8706.png) <br>
+    Note: 736000-737400 reflects the 2016-2021 date range <br>
+    <br>
     2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940303-2070a02e-abcc-4a8d-b4d2-e94b557def91.png) <br>
+    Note: 734000-737500 reflects the 2016-2021 date range <br>
+    <br>
     We studied New York City because it has a high-population density over a large area of urban land. <br>
     <br>
 - Rhode Island: <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940478-652b75ba-82d3-4ccc-95b4-db9206f245c3.png) <br>
+    Note: 736000-737400 reflects the 2016-2021 date range <br>
+    <br>
     2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156940531-70318095-2410-43f5-8a5a-d557b03685a7.png) <br>
+    Note: 734000-737500 reflects the 2016-2021 date range <br>
+    <br>
     We studied Rhode Island because it is a region that is four times the size of New York but only 1/8th the population; Rhode Island's population density is significantly less than New York. We wanted to contrast observations in New York to a nearby region that has a similar butterfly migratory path running through it, but has a larger space and fewer people. <br>
     <br>
 - Oklahoma City <br>
     2016-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156941018-ca83a9c8-4f08-4e4e-a405-bad570b21496.png) <br>
+    Note: 736000-737400 reflects the 2016-2021 date range <br>
+    <br>
     2010-2021 <br>
     ![image](https://user-images.githubusercontent.com/24308495/156941062-916fee87-46c0-4512-a349-93707ee00045.png) <br>
+    Note: 734000-737500 reflects the 2016-2021 date range <br>
+    <br>
     We studied Oklahoma City because there is a convergence of butterfly migratory paths that run through it. Three migratory paths journeying South and two migratory groups journeying North run through or near it. We were also interested because, based on correlations with political trends, the region may have a less-positive view of ecological protection than Minneapolis. <br>
 <br>
 Regression was chosen on these regions to see the change in butterfly observations over time. Prior to 2010, there were very few butterfly observations for these individual regions. From 2010 to 2015, there was a steady incline in observations. The level of observations for the entire dataset seems to plateau between 2016 and 2021; these are the years in which we thought it was most valuable to compare regional observations. In reviewing the above charted regions, there's no clear trends that surface which apply to each region other than a potential slight decline. <br>
