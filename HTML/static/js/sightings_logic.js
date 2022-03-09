@@ -75,7 +75,7 @@ d3.json(adultFS20208data).then(function(data) {
 
       // Create a popup for each circleMarker
      onEachFeature: function(feature, layer) {
-      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.school);
+      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
     }
   }).addTo(adultFS20208);
 
@@ -87,14 +87,14 @@ d3.json(adultFS20208data).then(function(data) {
 
   d3.json(tagged20009data).then(function(data) {
 
-  // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+  // Creating a GeoJSON layer with the retrieved data
   L.geoJson(data, {
     pointToLayer: function(feature, latlng) {
       console.log(data);
       return L.marker(latlng);
     },
     onEachFeature: function(feature, layer) {
-      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
     }
   }).addTo(tagged20009);
   // Add the tagged20009 layer to the map.
@@ -106,14 +106,14 @@ d3.json(adultFS20208data).then(function(data) {
 
  d3.json(eggsFS20208data).then(function(data) {
 
- // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+ // Creating a GeoJSON layer with the retrieved data
  L.geoJson(data, {
    pointToLayer: function(feature, latlng) {
      console.log(data);
      return L.marker(latlng);
    },
    onEachFeature: function(feature, layer) {
-     layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+     layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
    }
  }).addTo(eggsFS20208);
  // Add the eggsFS20208 layer to the map.
@@ -125,14 +125,14 @@ larvaS20209data = "https://raw.githubusercontent.com/ChristianShada/Monarch_Butt
 
 d3.json(larvaS20209data).then(function(data) {
 
-// Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+// Creating a GeoJSON layer with the retrieved data
 L.geoJson(data, {
   pointToLayer: function(feature, latlng) {
     console.log(data);
     return L.marker(latlng);
   },
   onEachFeature: function(feature, layer) {
-    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
   }
 }).addTo(larvaS20209);
 // 8. Add the larvaS20209 layer to the map.
@@ -151,7 +151,7 @@ L.geoJson(data, {
     return L.marker(latlng);
   },
   onEachFeature: function(feature, layer) {
-    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
   }
 }).addTo(peakM20209);
 // 8. Add the peakM20209 layer to the map.
@@ -162,14 +162,14 @@ peakM20209.addTo(map);
   d3.json(milkweedFS20207data).then(function(data) {
 
 
-    // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+    // Creating a GeoJSON layer with the retrieved data
     L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         console.log(data);
         return L.marker(latlng);
       },
       onEachFeature: function(feature, layer) {
-        layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+        layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
       }
     }).addTo(milkweedFS20207);
     // Add the milkweedFS20207 layer to the map.
@@ -180,21 +180,21 @@ peakM20209.addTo(map);
     d3.json(milkweedS20207data).then(function(data) {
   
   
-      // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+      // Creating a GeoJSON layer with the retrieved data
       L.geoJson(data, {
         pointToLayer: function(feature, latlng) {
           console.log(data);
           return L.marker(latlng);
         },
         onEachFeature: function(feature, layer) {
-          layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+          layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
         }
       }).addTo(milkweedS20207);
       // 8. Add the milkweedS20207 layer to the map.
       milkweedS20207.addTo(map);
       });
 
-   // 3. Use d3.json to make a call to get our geoJSON data.
+   // Use d3.json to make a call to get our geoJSON data.
    adultS20209data = "https://raw.githubusercontent.com/ChristianShada/Monarch_Butterflies/main/static_Sue/geoJSON/journey_north/JNorth_Adult_Site/JNorth_Adult_Site_2020_9.geojson"
   d3.json(adultS20209data).then(function(data) {
     // console.log(data);
@@ -287,9 +287,9 @@ d3.json(adultFS20208data2).then(function(data) {
       		return L.marker(latlng);
         },
 
-      // Create a popup for each circleMarker
+      // Create a popup for each Marker
      onEachFeature: function(feature, layer) {
-      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.school);
+      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
     }
   }).addTo(adultFS202082);
 
@@ -301,14 +301,14 @@ d3.json(adultFS20208data2).then(function(data) {
 
   d3.json(tagged20009data2).then(function(data) {
 
-  // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+  // Creating a GeoJSON layer with the retrieved data
   L.geoJson(data, {
     pointToLayer: function(feature, latlng) {
       console.log(data);
       return L.marker(latlng);
     },
     onEachFeature: function(feature, layer) {
-      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+      layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
     }
   }).addTo(tagged200092);
   // Add the tagged20009 layer to the map.
@@ -320,14 +320,14 @@ d3.json(adultFS20208data2).then(function(data) {
 
  d3.json(eggsFS20208data2).then(function(data) {
 
- // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+ // Creating a GeoJSON layer with the retrieved data 
  L.geoJson(data, {
    pointToLayer: function(feature, latlng) {
      console.log(data);
      return L.marker(latlng);
    },
    onEachFeature: function(feature, layer) {
-     layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+     layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
    }
  }).addTo(eggsFS202082);
  // Add the eggsFS20208 layer to the map.
@@ -339,14 +339,14 @@ larvaS20209data2 = "https://raw.githubusercontent.com/ChristianShada/Monarch_But
 
 d3.json(larvaS20209data2).then(function(data) {
 
-// Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+// Creating a GeoJSON layer with the retrieved data 
 L.geoJson(data, {
   pointToLayer: function(feature, latlng) {
     console.log(data);
     return L.marker(latlng);
   },
   onEachFeature: function(feature, layer) {
-    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
   }
 }).addTo(larvaS202092);
 // 8. Add the larvaS20209 layer to the map.
@@ -365,7 +365,7 @@ L.geoJson(data, {
     return L.marker(latlng);
   },
   onEachFeature: function(feature, layer) {
-    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+    layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
   }
 }).addTo(peakM202092);
 // 8. Add the peakM20209 layer to the map.
@@ -376,14 +376,14 @@ peakM202092.addTo(map2);
   d3.json(milkweedFS20207data2).then(function(data) {
 
 
-    // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+    // Creating a GeoJSON layer with the retrieved data 
     L.geoJson(data, {
       pointToLayer: function(feature, latlng) {
         console.log(data);
         return L.marker(latlng);
       },
       onEachFeature: function(feature, layer) {
-        layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+        layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
       }
     }).addTo(milkweedFS202072);
     // Add the milkweedFS20207 layer to the map.
@@ -394,21 +394,21 @@ peakM202092.addTo(map2);
     d3.json(milkweedS20207data2).then(function(data) {
   
   
-      // Creating a GeoJSON layer with the retrieved data that adds a circle to the map 
+      // Creating a GeoJSON layer with the retrieved data
       L.geoJson(data, {
         pointToLayer: function(feature, latlng) {
           console.log(data);
           return L.marker(latlng);
         },
         onEachFeature: function(feature, layer) {
-          layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.number);
+          layer.bindPopup("Number: " + feature.properties.number + "<br>Location: " + feature.properties.species);
         }
       }).addTo(milkweedS202072);
       // 8. Add the milkweedS20207 layer to the map.
       milkweedS202072.addTo(map);
       });
 
-   // 3. Use d3.json to make a call to get our geoJSON data.
+   // Use d3.json to make a call to get our geoJSON data.
    adultS20209data2 = "https://raw.githubusercontent.com/ChristianShada/Monarch_Butterflies/main/static_Sue/geoJSON/journey_north/JNorth_Adult_Site/JNorth_Adult_Site_2020_9.geojson"
   d3.json(adultS20209data2).then(function(data) {
     // console.log(data);
